@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Wind turbine">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(303 65% 14%)"/>
+      <stop offset="100%" stop-color="hsl(353 65% 9%)"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(303 88% 62%)"/>
+      <stop offset="100%" stop-color="hsl(333 88% 52%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="32" fill="url(#bg)"/>
+  <g opacity="0.15" fill="none" stroke="white">
+    <path d="M40 80h560"/>
+    <path d="M40 340h560"/>
+    <path d="M94 44v332"/>
+    <path d="M540 44v332"/>
+  </g>
+  <circle cx="516" cy="110" r="96" fill="hsl(303 80% 58%)" opacity="0.12"/>
+  <path d="M194 74l22 98l-22 12l-22-12zm0 102v126m0-118l88-40m-88 40l-92-18m92 18l72 72" transform="translate(110 40) scale(1.25)" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="58" y="84" fill="white" font-family="Inter,Segoe UI,Arial" font-size="18" letter-spacing="3">WIND</text>
+  <text x="58" y="336" fill="white" font-family="Inter,Segoe UI,Arial" font-size="34" font-weight="700">Wind turbine</text>
+  <text x="58" y="372" fill="rgba(255,255,255,0.72)" font-family="Inter,Segoe UI,Arial" font-size="18">Nd, Pr, Dy, Tb</text>
+</svg>

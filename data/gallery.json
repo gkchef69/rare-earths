@@ -1,0 +1,86 @@
+[
+  {
+    "id": "gallery-nd-magnet",
+    "category": "material",
+    "mediaRef": "material-nd-magnet",
+    "layout": "feature"
+  },
+  {
+    "id": "gallery-bastnaesite",
+    "category": "material",
+    "mediaRef": "material-bastnaesite",
+    "layout": "tall"
+  },
+  {
+    "id": "gallery-monazite",
+    "category": "material",
+    "mediaRef": "material-monazite",
+    "layout": "tall"
+  },
+  {
+    "id": "gallery-oxides",
+    "category": "material",
+    "mediaRef": "material-oxides",
+    "layout": "wide"
+  },
+  {
+    "id": "gallery-smartphone",
+    "category": "application",
+    "mediaRef": "app-smartphone-internals",
+    "layout": "feature"
+  },
+  {
+    "id": "gallery-electric-motor",
+    "category": "application",
+    "mediaRef": "app-electric-motor",
+    "layout": "wide"
+  },
+  {
+    "id": "gallery-wind",
+    "category": "application",
+    "mediaRef": "app-wind-turbine",
+    "layout": "tall"
+  },
+  {
+    "id": "gallery-mri",
+    "category": "application",
+    "mediaRef": "app-mri",
+    "layout": "wide"
+  },
+  {
+    "id": "gallery-pet",
+    "category": "application",
+    "mediaRef": "app-pet-ct",
+    "layout": "wide"
+  },
+  {
+    "id": "gallery-hard-drive",
+    "category": "application",
+    "mediaRef": "app-hard-drive",
+    "layout": "wide"
+  },
+  {
+    "id": "gallery-deposit",
+    "category": "industry",
+    "mediaRef": "industry-ree-deposit",
+    "layout": "feature"
+  },
+  {
+    "id": "gallery-overview",
+    "category": "editorial",
+    "mediaRef": "editorial-atlas-overview",
+    "layout": "wide"
+  },
+  {
+    "id": "gallery-supply-chain",
+    "category": "editorial",
+    "mediaRef": "editorial-supply-chain",
+    "layout": "wide"
+  },
+  {
+    "id": "gallery-recycling",
+    "category": "editorial",
+    "mediaRef": "editorial-recycling",
+    "layout": "wide"
+  }
+]

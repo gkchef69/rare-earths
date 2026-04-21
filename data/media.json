@@ -1,0 +1,1465 @@
+[
+  {
+    "id": "material-nd-magnet",
+    "kind": "photo",
+    "category": "material",
+    "src": "assets/img/photos/materials/nd-magnet.jpg",
+    "aspect": "square",
+    "credit": {
+      "author": "Unknown / Images of Elements",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neodymium_magnet_cubes.jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "Nd",
+      "magnet",
+      "materials",
+      "audio",
+      "motors"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "praseodymium",
+        "dysprosium"
+      ],
+      "applications": [
+        "smartphone",
+        "headphones",
+        "electric-vehicle",
+        "hard-drive",
+        "robotics"
+      ],
+      "articles": [
+        "rare-earths-101",
+        "smartphone-inside",
+        "ev-and-energy"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Μαγνήτες νεοδυμίου",
+        "alt": "Κύβοι μαγνητών νεοδυμίου",
+        "caption": "Το πιο αναγνωρίσιμο υλικό πίσω από compact ηχεία, haptics, actuator systems και ηλεκτροκινητήρες."
+      },
+      "en": {
+        "title": "Neodymium magnets",
+        "alt": "Neodymium magnet cubes",
+        "caption": "The signature material behind compact speakers, haptics, actuators and electric motors."
+      }
+    },
+    "width": 645,
+    "height": 645,
+    "orientation": "square",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center center",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "material-bastnaesite",
+    "kind": "photo",
+    "category": "material",
+    "src": "assets/img/photos/materials/bastnaesite-ce.jpg",
+    "aspect": "portrait",
+    "credit": {
+      "author": "Christian Rewitzer",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bastn%C3%A4site-(Ce)-005.jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "ore",
+      "bastnaesite",
+      "La",
+      "Ce",
+      "Nd"
+    ],
+    "linkedTo": {
+      "elements": [
+        "lanthanum",
+        "cerium",
+        "neodymium"
+      ],
+      "applications": [],
+      "articles": [
+        "rare-earths-101",
+        "china-and-supply-chain"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Bastnäsite-(Ce)",
+        "alt": "Δείγμα ορυκτού bastnäsite",
+        "caption": "Βασικό ορυκτό αφετηρίας για λανθάνιο, κέριο και άλλα light rare earth στοιχεία."
+      },
+      "en": {
+        "title": "Bastnäsite-(Ce)",
+        "alt": "Bastnaesite ore specimen",
+        "caption": "A core ore mineral feeding lanthanum, cerium and other light rare-earth supply chains."
+      }
+    },
+    "width": 1024,
+    "height": 1000,
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 45%",
+      "hero": "50% 45%",
+      "cover": "50% 45%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center center",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "material-monazite",
+    "kind": "photo",
+    "category": "material",
+    "src": "assets/img/photos/materials/monazite-madagascar.jpg",
+    "aspect": "portrait",
+    "credit": {
+      "author": "Ra'ike",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monazite-Madagascar.jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "ore",
+      "monazite",
+      "processing",
+      "thorium"
+    ],
+    "linkedTo": {
+      "elements": [
+        "cerium",
+        "lanthanum"
+      ],
+      "applications": [],
+      "articles": [
+        "rare-earths-101",
+        "china-and-supply-chain",
+        "recycling-and-substitution"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Monazite",
+        "alt": "Δείγμα ορυκτού monazite",
+        "caption": "Ορυκτό με κρίσιμο ρόλο στις συζητήσεις για separation, refining και περιβαλλοντικό κόστος."
+      },
+      "en": {
+        "title": "Monazite",
+        "alt": "Monazite ore specimen",
+        "caption": "A mineral central to discussions about separation, refining and environmental cost."
+      }
+    },
+    "width": 1300,
+    "height": 1100,
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 42%",
+      "hero": "50% 42%",
+      "cover": "50% 42%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center center",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "material-oxides",
+    "kind": "photo",
+    "category": "material",
+    "src": "assets/img/photos/materials/rare-earth-oxides.jpg",
+    "aspect": "landscape",
+    "credit": {
+      "author": "Peggy Greb / USDA",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rareearthoxides.jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "oxides",
+      "refining",
+      "chemistry"
+    ],
+    "linkedTo": {
+      "elements": [
+        "cerium",
+        "lanthanum",
+        "neodymium"
+      ],
+      "applications": [],
+      "articles": [
+        "rare-earths-101",
+        "recycling-and-substitution"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Οξείδια σπάνιων γαιών",
+        "alt": "Δείγματα οξειδίων σπάνιων γαιών σε δοχεία",
+        "caption": "Η ενδιάμεση μορφή ανάμεσα στο μετάλλευμα και στο λειτουργικό βιομηχανικό υλικό."
+      },
+      "en": {
+        "title": "Rare-earth oxides",
+        "alt": "Rare-earth oxide samples in containers",
+        "caption": "The in-between state linking ore chemistry to industrial materials."
+      }
+    },
+    "width": 1200,
+    "height": 780,
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 45%",
+      "hero": "50% 45%",
+      "cover": "50% 45%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center 38%",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "app-smartphone-internals",
+    "kind": "photo",
+    "category": "application",
+    "src": "assets/img/photos/applications/iphone-internals.jpg",
+    "aspect": "landscape",
+    "credit": {
+      "author": "Tyler Love",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_Internals.jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "smartphone",
+      "consumer tech",
+      "haptics",
+      "camera"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "lanthanum",
+        "europium",
+        "yttrium"
+      ],
+      "applications": [
+        "smartphone"
+      ],
+      "articles": [
+        "smartphone-inside"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Εσωτερικό smartphone",
+        "alt": "Ανοιγμένο smartphone με ορατά εξαρτήματα",
+        "caption": "Οι rare earths κρύβονται σε μαγνήτες, optics, audio modules και στο layer του haptic feedback."
+      },
+      "en": {
+        "title": "Smartphone internals",
+        "alt": "Opened smartphone with visible internal components",
+        "caption": "Rare earths hide in magnets, optics, audio modules and the haptic layer."
+      }
+    },
+    "width": 1066,
+    "height": 1600,
+    "orientation": "portrait",
+    "focus": {
+      "card": "50% 18%",
+      "hero": "50% 22%",
+      "cover": "50% 22%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center 22%",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "app-electric-motor",
+    "kind": "photo",
+    "category": "application",
+    "src": "assets/img/photos/applications/electric-motor.jpg",
+    "aspect": "landscape",
+    "credit": {
+      "author": "Zureks",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Permanent_magnet_synchronous_motor_(PMSM)_rotor_and_stator.JPG",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "motor",
+      "EV",
+      "robotics",
+      "Nd",
+      "Dy"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "praseodymium",
+        "dysprosium",
+        "terbium"
+      ],
+      "applications": [
+        "electric-vehicle",
+        "robotics"
+      ],
+      "articles": [
+        "ev-and-energy"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Κινητήρας μόνιμων μαγνητών",
+        "alt": "Ρότορας και στάτης κινητήρα μόνιμων μαγνητών",
+        "caption": "Το μέρος όπου Nd-Pr-Dy παύουν να είναι trivia και γίνονται engineering bottleneck."
+      },
+      "en": {
+        "title": "Permanent-magnet motor",
+        "alt": "Permanent magnet motor rotor and stator",
+        "caption": "Where Nd-Pr-Dy stop being trivia and become a real engineering bottleneck."
+      }
+    },
+    "width": 1200,
+    "height": 850,
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 52%",
+      "hero": "50% 52%",
+      "cover": "50% 52%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center center",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "app-wind-turbine",
+    "kind": "photo",
+    "category": "application",
+    "src": "assets/img/photos/applications/wind-turbine.jpg",
+    "aspect": "portrait",
+    "credit": {
+      "author": "Drew Stephens",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wind_turbines_Creston,_California.jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "wind",
+      "energy",
+      "direct drive"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "praseodymium",
+        "dysprosium",
+        "terbium"
+      ],
+      "applications": [
+        "wind-turbine"
+      ],
+      "articles": [
+        "ev-and-energy"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Ανεμογεννήτριες",
+        "alt": "Συστοιχία ανεμογεννητριών",
+        "caption": "Σε direct-drive σχεδιάσεις, οι μόνιμοι μαγνήτες περιορίζουν gearbox απώλειες και μηχανικό βάρος."
+      },
+      "en": {
+        "title": "Wind turbines",
+        "alt": "Wind turbine array",
+        "caption": "In direct-drive layouts, permanent magnets reduce gearbox losses and mechanical bulk."
+      }
+    },
+    "width": 640,
+    "height": 853,
+    "orientation": "portrait",
+    "focus": {
+      "card": "50% 32%",
+      "hero": "50% 28%",
+      "cover": "50% 30%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center 40%",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "app-mri",
+    "kind": "photo",
+    "category": "application",
+    "src": "assets/img/photos/applications/mri-philips.jpg",
+    "aspect": "landscape",
+    "credit": {
+      "author": "Jan Ainali",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philips_Achieva_3.0T_X-series_MRI_scanner.jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "MRI",
+      "gadolinium",
+      "medicine"
+    ],
+    "linkedTo": {
+      "elements": [
+        "gadolinium"
+      ],
+      "applications": [
+        "mri"
+      ],
+      "articles": [
+        "medicine-and-imaging"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "MRI scanner",
+        "alt": "Σύγχρονος μαγνητικός τομογράφος MRI",
+        "caption": "Το γαδολίνιο συνδέει τις rare earths με κλινική απεικόνιση και σκιαγραφικά πρωτόκολλα."
+      },
+      "en": {
+        "title": "MRI scanner",
+        "alt": "Modern MRI scanner",
+        "caption": "Gadolinium ties rare earths directly to clinical imaging and contrast protocols."
+      }
+    },
+    "width": 657,
+    "height": 599,
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center 42%",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "app-pet-ct",
+    "kind": "photo",
+    "category": "application",
+    "src": "assets/img/photos/applications/pet-ct.jpg",
+    "aspect": "landscape",
+    "credit": {
+      "author": "Brudersohn",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PET-CT_01.jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "PET",
+      "CT",
+      "lutetium",
+      "medicine"
+    ],
+    "linkedTo": {
+      "elements": [
+        "lutetium"
+      ],
+      "applications": [
+        "pet-scanner"
+      ],
+      "articles": [
+        "medicine-and-imaging"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "PET/CT σύστημα",
+        "alt": "Σύστημα PET/CT σε νοσοκομειακό χώρο",
+        "caption": "Κρύσταλλοι με λουτήτιο μετατρέπουν γεγονότα ακτινοβολίας σε μετρήσιμο φως."
+      },
+      "en": {
+        "title": "PET/CT system",
+        "alt": "PET/CT machine in hospital setting",
+        "caption": "Lutetium-based crystals convert radiation events into measurable light."
+      }
+    },
+    "width": 1600,
+    "height": 1200,
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 48%",
+      "hero": "50% 48%",
+      "cover": "50% 48%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center 40%",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "app-hard-drive",
+    "kind": "photo",
+    "category": "application",
+    "src": "assets/img/photos/applications/laptop-hard-drive.jpg",
+    "aspect": "landscape",
+    "credit": {
+      "author": "Evan-Amos",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laptop-hard-drive-exposed.jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "hard drive",
+      "storage",
+      "actuator"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "praseodymium",
+        "dysprosium"
+      ],
+      "applications": [
+        "hard-drive"
+      ],
+      "articles": []
+    },
+    "translations": {
+      "el": {
+        "title": "Ανοιγμένος σκληρός δίσκος",
+        "alt": "Εσωτερικό σκληρού δίσκου laptop",
+        "caption": "Ισχυροί μικρομαγνήτες επιτρέπουν ακραία ακριβή κίνηση στον actuator."
+      },
+      "en": {
+        "title": "Opened hard drive",
+        "alt": "Laptop hard drive internals",
+        "caption": "Strong micromagnets give the actuator its absurd precision."
+      }
+    },
+    "width": 1600,
+    "height": 1224,
+    "orientation": "landscape",
+    "focus": {
+      "card": "52% 52%",
+      "hero": "52% 52%",
+      "cover": "52% 52%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center 35%",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "app-ev-car",
+    "kind": "photo",
+    "category": "application",
+    "src": "assets/img/photos/applications/nissan-leaf.jpg",
+    "aspect": "landscape",
+    "credit": {
+      "author": "Mariordo",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nissan_Leaf_2018_(36293663242).jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "EV",
+      "vehicle",
+      "mobility"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "praseodymium",
+        "dysprosium"
+      ],
+      "applications": [
+        "electric-vehicle"
+      ],
+      "articles": [
+        "ev-and-energy"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Ηλεκτρικό όχημα",
+        "alt": "Ηλεκτρικό αυτοκίνητο σε δημόσιο δρόμο",
+        "caption": "Το visible μέρος της αλυσίδας. Το αόρατο βρίσκεται βαθύτερα, μέσα σε μοτέρ, ηλεκτρονικά και magnets."
+      },
+      "en": {
+        "title": "Electric vehicle",
+        "alt": "Electric car on public road",
+        "caption": "The visible part of the chain. The invisible part sits inside motors, electronics and magnets."
+      }
+    },
+    "width": 1280,
+    "height": 680,
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 58%",
+      "hero": "50% 50%",
+      "cover": "50% 54%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "industry-ree-deposit",
+    "kind": "photo",
+    "category": "industry",
+    "src": "assets/img/photos/industry/ree-deposit.jpg",
+    "aspect": "landscape",
+    "credit": {
+      "author": "Peggy Greb / USDA",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RareEarthOreUSDA.jpg",
+      "publisher": "Wikimedia Commons"
+    },
+    "tags": [
+      "mine",
+      "deposit",
+      "supply chain",
+      "industry"
+    ],
+    "linkedTo": {
+      "elements": [],
+      "applications": [
+        "refinery"
+      ],
+      "articles": [
+        "china-and-supply-chain"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Κοίτασμα / βιομηχανική αφετηρία",
+        "alt": "Κοίτασμα σπάνιων γαιών και βιομηχανικό τοπίο",
+        "caption": "Η εξόρυξη είναι η αρχή. Η πραγματική ισχύς έρχεται μετά, στον διαχωρισμό και στο downstream manufacturing."
+      },
+      "en": {
+        "title": "Deposit / industrial starting point",
+        "alt": "Rare-earth deposit and industrial landscape",
+        "caption": "Mining is only the opening move. The real leverage shows up in separation and downstream manufacturing."
+      }
+    },
+    "width": 1600,
+    "height": 1200,
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 48%",
+      "hero": "50% 44%",
+      "cover": "50% 44%"
+    },
+    "fit": {
+      "card": "cover",
+      "hero": "cover",
+      "cover": "cover",
+      "lightbox": "contain"
+    },
+    "objectPosition": "center 48%",
+    "galleryAspect": "4 / 3",
+    "renderMode": "cover"
+  },
+  {
+    "id": "ill-headphones",
+    "kind": "illustration",
+    "category": "device",
+    "src": "assets/img/applications/headphones.svg",
+    "aspect": "square",
+    "tags": [
+      "audio",
+      "consumer tech",
+      "illustration"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "samarium"
+      ],
+      "applications": [
+        "headphones"
+      ],
+      "articles": []
+    },
+    "translations": {
+      "el": {
+        "title": "Audio module illustration",
+        "alt": "Εικονογράφηση ακουστικών",
+        "caption": "Editorial visual για ηχεία, drivers και compact sound systems."
+      },
+      "en": {
+        "title": "Audio module illustration",
+        "alt": "Headphones illustration",
+        "caption": "Editorial visual for speakers, drivers and compact sound systems."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "ill-laser-systems",
+    "kind": "illustration",
+    "category": "device",
+    "src": "assets/img/applications/laser-systems.svg",
+    "aspect": "square",
+    "tags": [
+      "laser",
+      "optics",
+      "defense"
+    ],
+    "linkedTo": {
+      "elements": [
+        "erbium",
+        "ytterbium",
+        "holmium",
+        "neodymium"
+      ],
+      "applications": [
+        "laser-systems"
+      ],
+      "articles": []
+    },
+    "translations": {
+      "el": {
+        "title": "Laser systems illustration",
+        "alt": "Εικονογράφηση laser συστημάτων",
+        "caption": "Editorial visual για rangefinders, optics και scientific laser platforms."
+      },
+      "en": {
+        "title": "Laser systems illustration",
+        "alt": "Laser systems illustration",
+        "caption": "Editorial visual for rangefinders, optics and scientific laser platforms."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "ill-fighter-jet",
+    "kind": "illustration",
+    "category": "device",
+    "src": "assets/img/applications/fighter-jet.svg",
+    "aspect": "square",
+    "tags": [
+      "aerospace",
+      "defense",
+      "alloys"
+    ],
+    "linkedTo": {
+      "elements": [
+        "samarium",
+        "scandium",
+        "yttrium"
+      ],
+      "applications": [
+        "fighter-jet"
+      ],
+      "articles": []
+    },
+    "translations": {
+      "el": {
+        "title": "Aerospace illustration",
+        "alt": "Εικονογράφηση μαχητικού αεροσκάφους",
+        "caption": "Rare-earth alloys, magnets και sensors μεταφέρονται από το lab σε αεροδιαστημικά συστήματα."
+      },
+      "en": {
+        "title": "Aerospace illustration",
+        "alt": "Fighter aircraft illustration",
+        "caption": "Rare-earth alloys, magnets and sensors move from the lab into aerospace systems."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "ill-refinery",
+    "kind": "illustration",
+    "category": "industry",
+    "src": "assets/img/applications/refinery.svg",
+    "aspect": "square",
+    "tags": [
+      "refining",
+      "catalysts",
+      "industry"
+    ],
+    "linkedTo": {
+      "elements": [
+        "lanthanum",
+        "cerium"
+      ],
+      "applications": [
+        "refinery"
+      ],
+      "articles": [
+        "china-and-supply-chain"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Refining illustration",
+        "alt": "Εικονογράφηση μονάδας refining",
+        "caption": "Οι rare earths δεν μένουν μόνο στα ορυχεία. Μπαίνουν και σε catalysts, refining και process engineering."
+      },
+      "en": {
+        "title": "Refining illustration",
+        "alt": "Refinery illustration",
+        "caption": "Rare earths do not stay in the mine. They also live inside catalysts, refining and process engineering."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "ill-smartphone",
+    "kind": "illustration",
+    "category": "device",
+    "src": "assets/img/applications/smartphone.svg",
+    "aspect": "square",
+    "tags": [
+      "smartphone",
+      "consumer tech"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "lanthanum",
+        "europium",
+        "yttrium"
+      ],
+      "applications": [
+        "smartphone"
+      ],
+      "articles": [
+        "smartphone-inside"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Smartphone illustration",
+        "alt": "Εικονογράφηση smartphone",
+        "caption": "Graphic plate για smartphone subsystems και material hotspots."
+      },
+      "en": {
+        "title": "Smartphone illustration",
+        "alt": "Smartphone illustration",
+        "caption": "Graphic plate for smartphone subsystems and material hotspots."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "ill-robotics",
+    "kind": "illustration",
+    "category": "device",
+    "src": "assets/img/applications/robotics.svg",
+    "aspect": "square",
+    "tags": [
+      "robotics",
+      "motors",
+      "automation"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "dysprosium",
+        "samarium"
+      ],
+      "applications": [
+        "robotics"
+      ],
+      "articles": [
+        "ev-and-energy"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Robotics illustration",
+        "alt": "Εικονογράφηση ρομποτικού βραχίονα",
+        "caption": "Automation, servomotors και precision motion σπάνια δουλεύουν χωρίς ισχυρούς magnet systems."
+      },
+      "en": {
+        "title": "Robotics illustration",
+        "alt": "Robotic arm illustration",
+        "caption": "Automation, servomotors and precision motion rarely stay away from strong magnet systems."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "ill-wind",
+    "kind": "illustration",
+    "category": "device",
+    "src": "assets/img/applications/wind-turbine.svg",
+    "aspect": "square",
+    "tags": [
+      "wind",
+      "energy"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "praseodymium",
+        "dysprosium"
+      ],
+      "applications": [
+        "wind-turbine"
+      ],
+      "articles": [
+        "ev-and-energy"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Wind illustration",
+        "alt": "Εικονογράφηση ανεμογεννήτριας",
+        "caption": "Graphic plate για τομές direct-drive ενέργειας και magnet-heavy systems."
+      },
+      "en": {
+        "title": "Wind illustration",
+        "alt": "Wind turbine illustration",
+        "caption": "Graphic plate for direct-drive energy systems and magnet-heavy engineering."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "ill-mri",
+    "kind": "illustration",
+    "category": "device",
+    "src": "assets/img/applications/mri.svg",
+    "aspect": "square",
+    "tags": [
+      "MRI",
+      "medical"
+    ],
+    "linkedTo": {
+      "elements": [
+        "gadolinium"
+      ],
+      "applications": [
+        "mri"
+      ],
+      "articles": [
+        "medicine-and-imaging"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "MRI illustration",
+        "alt": "Εικονογράφηση MRI συστήματος",
+        "caption": "Editorial companion visual για ιατρική απεικόνιση και detector materials."
+      },
+      "en": {
+        "title": "MRI illustration",
+        "alt": "MRI illustration",
+        "caption": "Editorial companion visual for medical imaging and detector materials."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "ill-pet",
+    "kind": "illustration",
+    "category": "device",
+    "src": "assets/img/applications/pet-scanner.svg",
+    "aspect": "square",
+    "tags": [
+      "PET",
+      "medical"
+    ],
+    "linkedTo": {
+      "elements": [
+        "lutetium"
+      ],
+      "applications": [
+        "pet-scanner"
+      ],
+      "articles": [
+        "medicine-and-imaging"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "PET illustration",
+        "alt": "Εικονογράφηση PET scanner",
+        "caption": "Graphic companion για scintillation crystals και detector arrays."
+      },
+      "en": {
+        "title": "PET illustration",
+        "alt": "PET scanner illustration",
+        "caption": "Graphic companion for scintillation crystals and detector arrays."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "ill-hard-drive",
+    "kind": "illustration",
+    "category": "device",
+    "src": "assets/img/applications/hard-drive.svg",
+    "aspect": "square",
+    "tags": [
+      "storage",
+      "actuator"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "praseodymium"
+      ],
+      "applications": [
+        "hard-drive"
+      ],
+      "articles": []
+    },
+    "translations": {
+      "el": {
+        "title": "Storage illustration",
+        "alt": "Εικονογράφηση σκληρού δίσκου",
+        "caption": "Μικρή οπτική μεταφορά για το πώς οι μαγνήτες κρατούν ακριβή την εγγραφή/ανάγνωση."
+      },
+      "en": {
+        "title": "Storage illustration",
+        "alt": "Hard drive illustration",
+        "caption": "A compact visual for how magnets keep read-write mechanics precise."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "ill-ev",
+    "kind": "illustration",
+    "category": "device",
+    "src": "assets/img/applications/electric-vehicle.svg",
+    "aspect": "square",
+    "tags": [
+      "EV",
+      "mobility"
+    ],
+    "linkedTo": {
+      "elements": [
+        "neodymium",
+        "praseodymium",
+        "dysprosium"
+      ],
+      "applications": [
+        "electric-vehicle"
+      ],
+      "articles": [
+        "ev-and-energy"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "EV illustration",
+        "alt": "Εικονογράφηση ηλεκτρικού οχήματος",
+        "caption": "Graphic visual για μετάβαση από σπάνιες γαίες σε mobility hardware."
+      },
+      "en": {
+        "title": "EV illustration",
+        "alt": "Electric vehicle illustration",
+        "caption": "Graphic visual connecting rare earths to mobility hardware."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "editorial-atlas-overview",
+    "kind": "illustration",
+    "category": "editorial",
+    "src": "assets/img/gallery/atlas-overview.svg",
+    "aspect": "landscape",
+    "tags": [
+      "overview",
+      "editorial",
+      "atlas"
+    ],
+    "linkedTo": {
+      "elements": [],
+      "applications": [],
+      "articles": [
+        "rare-earths-101"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Atlas overview",
+        "alt": "Editorial overview γραφικό",
+        "caption": "Visual εισαγωγή στο project, στη δομή του περιεχομένου και στη σχέση υλικών-συσκευών-συστημάτων."
+      },
+      "en": {
+        "title": "Atlas overview",
+        "alt": "Editorial overview graphic",
+        "caption": "A visual introduction to the project and the materials-devices-systems relationship."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "editorial-supply-chain",
+    "kind": "illustration",
+    "category": "editorial",
+    "src": "assets/img/gallery/supply-chain.svg",
+    "aspect": "landscape",
+    "tags": [
+      "supply chain",
+      "geopolitics"
+    ],
+    "linkedTo": {
+      "elements": [],
+      "applications": [],
+      "articles": [
+        "china-and-supply-chain"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Supply-chain plate",
+        "alt": "Εικονογράφηση εφοδιαστικής αλυσίδας",
+        "caption": "Από το μετάλλευμα στο refining και από εκεί στα τελικά εξαρτήματα. Εκεί κρύβεται το leverage."
+      },
+      "en": {
+        "title": "Supply-chain plate",
+        "alt": "Supply chain illustration",
+        "caption": "From ore to refining to finished components. That is where the leverage hides."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "editorial-recycling",
+    "kind": "illustration",
+    "category": "editorial",
+    "src": "assets/img/gallery/recycling.svg",
+    "aspect": "landscape",
+    "tags": [
+      "recycling",
+      "substitution",
+      "circularity"
+    ],
+    "linkedTo": {
+      "elements": [],
+      "applications": [],
+      "articles": [
+        "recycling-and-substitution"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Recycling plate",
+        "alt": "Εικονογράφηση ανακύκλωσης υλικών",
+        "caption": "Editorial visual για closed-loop σκέψη, scrap recovery και substitution pressure."
+      },
+      "en": {
+        "title": "Recycling plate",
+        "alt": "Recycling illustration",
+        "caption": "Editorial visual for closed-loop thinking, scrap recovery and substitution pressure."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "editorial-mineral-bastnaesite",
+    "kind": "illustration",
+    "category": "editorial",
+    "src": "assets/img/gallery/mineral-bastnaesite.svg",
+    "aspect": "landscape",
+    "tags": [
+      "mineral",
+      "bastnaesite"
+    ],
+    "linkedTo": {
+      "elements": [
+        "lanthanum",
+        "cerium"
+      ],
+      "applications": [],
+      "articles": [
+        "rare-earths-101"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Bastnäsite plate",
+        "alt": "Εικονογράφηση bastnäsite",
+        "caption": "Diagram-style visual που λειτουργεί σαν museum label για το ορυκτό bastnäsite."
+      },
+      "en": {
+        "title": "Bastnäsite plate",
+        "alt": "Bastnaesite illustration",
+        "caption": "A diagram-style museum label visual for the bastnaesite ore."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  },
+  {
+    "id": "editorial-mineral-monazite",
+    "kind": "illustration",
+    "category": "editorial",
+    "src": "assets/img/gallery/mineral-monazite.svg",
+    "aspect": "landscape",
+    "tags": [
+      "mineral",
+      "monazite"
+    ],
+    "linkedTo": {
+      "elements": [
+        "lanthanum",
+        "cerium"
+      ],
+      "applications": [],
+      "articles": [
+        "rare-earths-101",
+        "recycling-and-substitution"
+      ]
+    },
+    "translations": {
+      "el": {
+        "title": "Monazite plate",
+        "alt": "Εικονογράφηση monazite",
+        "caption": "Museum-style diagram για monazite, processing και separation context."
+      },
+      "en": {
+        "title": "Monazite plate",
+        "alt": "Monazite illustration",
+        "caption": "Museum-style diagram for monazite, processing and separation context."
+      }
+    },
+    "orientation": "landscape",
+    "focus": {
+      "card": "50% 50%",
+      "hero": "50% 50%",
+      "cover": "50% 50%"
+    },
+    "fit": {
+      "card": "contain",
+      "hero": "contain",
+      "cover": "contain",
+      "lightbox": "contain"
+    }
+  }
+]

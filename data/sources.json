@@ -1,0 +1,138 @@
+[
+  {
+    "id": "usgs-overview",
+    "title": "Rare Earths Statistics and Information",
+    "publisher": "USGS",
+    "url": "https://www.usgs.gov/centers/national-minerals-information-center/rare-earths-statistics-and-information",
+    "tags": [
+      "overview",
+      "geology",
+      "industry"
+    ]
+  },
+  {
+    "id": "iea-executive",
+    "title": "Rare Earth Elements - Executive Summary",
+    "publisher": "International Energy Agency",
+    "url": "https://www.iea.org/reports/rare-earth-elements/executive-summary",
+    "tags": [
+      "supply chain",
+      "energy",
+      "magnets"
+    ]
+  },
+  {
+    "id": "britannica-rare-earth",
+    "title": "Rare-earth element",
+    "publisher": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/rare-earth-element",
+    "tags": [
+      "general",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "usgs-phone",
+    "title": "The Rare-Earth Elements: Vital to Modern Technologies and Lifestyles",
+    "publisher": "USGS",
+    "url": "https://pubs.usgs.gov/fs/2014/3078/pdf/fs2014-3078.pdf",
+    "tags": [
+      "smartphones",
+      "optics",
+      "consumer tech"
+    ]
+  },
+  {
+    "id": "apple-recycler-guide",
+    "title": "iPhone 12 / 12 Pro Recycler Guide",
+    "publisher": "Apple",
+    "url": "https://www.apple.com/cz/recycling/recycler-guides/pdf/products/iphone/iPhone_12_iPhone_12_Pro_Recycler_Guide_English.pdf",
+    "tags": [
+      "smartphone",
+      "materials",
+      "magnets"
+    ]
+  },
+  {
+    "id": "acs-smartphones",
+    "title": "Smartphones: Smart Chemistry",
+    "publisher": "American Chemical Society",
+    "url": "https://www.acs.org/content/dam/acsorg/education/resources/highschool/chemmatters/documents/smartphones-smart-chemistry.pdf",
+    "tags": [
+      "smartphone",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "doe-critical-materials",
+    "title": "Critical Materials Assessment",
+    "publisher": "U.S. Department of Energy",
+    "url": "https://www.energy.gov/mesc/critical-materials-assessment",
+    "tags": [
+      "energy",
+      "critical materials"
+    ]
+  },
+  {
+    "id": "nih-gadolinium",
+    "title": "Gadolinium-Based Contrast Agents",
+    "publisher": "National Institutes of Health",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482487/",
+    "tags": [
+      "MRI",
+      "medical"
+    ]
+  },
+  {
+    "id": "nibib-pet",
+    "title": "Positron Emission Tomography",
+    "publisher": "NIBIB / NIH",
+    "url": "https://www.nibib.nih.gov/science-education/science-topics/positron-emission-tomography-pet",
+    "tags": [
+      "PET",
+      "medical"
+    ]
+  },
+  {
+    "id": "usgs-production-2025",
+    "title": "Mineral Commodity Summaries 2026 - Rare Earths",
+    "publisher": "USGS",
+    "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf",
+    "tags": [
+      "production",
+      "global market"
+    ]
+  },
+  {
+    "id": "csis-controls",
+    "title": "China’s Rare Earth Export Controls",
+    "publisher": "CSIS",
+    "url": "https://www.csis.org/analysis/chinas-rare-earth-export-controls-recalibrating-critical-minerals-strategy",
+    "tags": [
+      "geopolitics",
+      "export controls"
+    ]
+  },
+  {
+    "id": "eu-crm",
+    "title": "EU Critical Raw Materials Act",
+    "publisher": "European Commission",
+    "url": "https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials_en",
+    "tags": [
+      "policy",
+      "Europe",
+      "recycling"
+    ]
+  },
+  {
+    "id": "wikimedia-commons-media",
+    "title": "Wikimedia Commons image attributions",
+    "publisher": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/",
+    "tags": [
+      "media",
+      "image credits",
+      "photos"
+    ]
+  }
+]

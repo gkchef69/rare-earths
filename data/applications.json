@@ -1,0 +1,277 @@
+[
+  {
+    "id": "smartphone",
+    "sector": "consumer-tech",
+    "keyElements": [
+      "Nd",
+      "Pr",
+      "Dy",
+      "La",
+      "Eu",
+      "Y"
+    ],
+    "translations": {
+      "el": {
+        "name": "Smartphone",
+        "summary": "Μαγνήτες για ήχο και haptics, οπτικά γυαλιά στην κάμερα και χρωματικά υλικά στην αλυσίδα display.",
+        "whatItDoes": "Μικροσκοπικά εξαρτήματα με δυσανάλογα μεγάλη απόδοση.",
+        "howItWorks": "Το πηνίο του ηχείου αλληλεπιδρά με μόνιμο μαγνήτη νεοδυμίου. Το λανθάνιο βελτιώνει φακούς. Ευρώπιο και ύττριο σχετίζονται με φωσφόρους και οπτικά υλικά."
+      },
+      "en": {
+        "name": "Smartphone",
+        "summary": "Magnets for sound and haptics, optical glass in the camera and color-related materials in the display chain.",
+        "whatItDoes": "Tiny components with outsized performance.",
+        "howItWorks": "The speaker coil interacts with a neodymium permanent magnet. Lanthanum improves lenses. Europium and yttrium appear in phosphor and optical materials."
+      }
+    },
+    "mediaRef": "app-smartphone-internals"
+  },
+  {
+    "id": "headphones",
+    "sector": "consumer-tech",
+    "keyElements": [
+      "Nd",
+      "Pr",
+      "Sm"
+    ],
+    "translations": {
+      "el": {
+        "name": "Ακουστικά και ηχεία",
+        "summary": "Τα rare-earth magnets κάνουν τον ήχο δυνατό και καθαρό χωρίς ογκώδη drivers.",
+        "whatItDoes": "Υψηλή ένταση και ακρίβεια σε μικρό μέγεθος.",
+        "howItWorks": "Το αναλογικό σήμα περνά από πηνίο, το οποίο αλληλεπιδρά με μόνιμο μαγνήτη και κινεί τη μεμβράνη."
+      },
+      "en": {
+        "name": "Headphones and speakers",
+        "summary": "Rare-earth magnets deliver strong clean sound without bulky drivers.",
+        "whatItDoes": "High output and precision in a compact form.",
+        "howItWorks": "The analog signal flows through a coil that interacts with a permanent magnet and moves the diaphragm."
+      }
+    },
+    "mediaRef": "ill-headphones"
+  },
+  {
+    "id": "electric-vehicle",
+    "sector": "mobility",
+    "keyElements": [
+      "Nd",
+      "Pr",
+      "Dy",
+      "Tb",
+      "La",
+      "Ce"
+    ],
+    "translations": {
+      "el": {
+        "name": "Ηλεκτρικό όχημα",
+        "summary": "Οι μαγνήτες του traction motor βασίζονται συνήθως σε νεοδύμιο, πρασεοδύμιο και συχνά δυσπρόσιο/τέρβιο.",
+        "whatItDoes": "Αποδοτική μετατροπή ηλεκτρικής ενέργειας σε ροπή.",
+        "howItWorks": "Ο ρότορας χρησιμοποιεί ισχυρούς μόνιμους μαγνήτες ώστε ο κινητήρας να παραμένει συμπαγής και αποδοτικός σε υψηλές στροφές."
+      },
+      "en": {
+        "name": "Electric vehicle",
+        "summary": "Traction-motor magnets typically rely on neodymium, praseodymium and often dysprosium/terbium.",
+        "whatItDoes": "Efficient conversion of electrical energy into torque.",
+        "howItWorks": "The rotor uses strong permanent magnets so the motor remains compact and efficient at high rotational speed."
+      }
+    },
+    "mediaRef": "app-ev-car"
+  },
+  {
+    "id": "wind-turbine",
+    "sector": "energy",
+    "keyElements": [
+      "Nd",
+      "Pr",
+      "Dy",
+      "Tb"
+    ],
+    "translations": {
+      "el": {
+        "name": "Ανεμογεννήτρια",
+        "summary": "Σε direct-drive turbines οι μόνιμοι μαγνήτες βοηθούν στη μείωση απωλειών και μηχανικής πολυπλοκότητας.",
+        "whatItDoes": "Παραγωγή ενέργειας με χαμηλότερες μηχανικές τριβές.",
+        "howItWorks": "Ο άνεμος περιστρέφει σύστημα γεννήτριας με μεγάλους μαγνήτες σπάνιων γαιών που αυξάνουν την πυκνότητα ισχύος."
+      },
+      "en": {
+        "name": "Wind turbine",
+        "summary": "In direct-drive turbines permanent magnets help cut losses and mechanical complexity.",
+        "whatItDoes": "Power generation with lower mechanical friction.",
+        "howItWorks": "Wind spins a generator system that uses large rare-earth magnets to increase power density."
+      }
+    },
+    "mediaRef": "app-wind-turbine"
+  },
+  {
+    "id": "mri",
+    "sector": "medical",
+    "keyElements": [
+      "Gd",
+      "Y",
+      "Lu"
+    ],
+    "translations": {
+      "el": {
+        "name": "MRI και ιατρική απεικόνιση",
+        "summary": "Το γαδολίνιο είναι το πιο αναγνωρίσιμο rare earth στην ιατρική, ειδικά σε σκιαγραφικά και detectors.",
+        "whatItDoes": "Καλύτερη αντίθεση και ακριβέστερη απεικόνιση.",
+        "howItWorks": "Οι παραμαγνητικές ιδιότητες του γαδολινίου επηρεάζουν τον χρόνο χαλάρωσης σημάτων σε MRI."
+      },
+      "en": {
+        "name": "MRI and medical imaging",
+        "summary": "Gadolinium is the most visible rare earth in medicine, especially in contrast agents and detectors.",
+        "whatItDoes": "Better contrast and more precise imaging.",
+        "howItWorks": "Gadolinium’s paramagnetic properties alter signal relaxation times in MRI."
+      }
+    },
+    "mediaRef": "app-mri"
+  },
+  {
+    "id": "pet-scanner",
+    "sector": "medical",
+    "keyElements": [
+      "Lu",
+      "Y",
+      "Gd"
+    ],
+    "translations": {
+      "el": {
+        "name": "PET scanner",
+        "summary": "Κρύσταλλοι με λουτήτιο επιτρέπουν γρήγορη και ακριβή ανίχνευση ακτινοβολίας.",
+        "whatItDoes": "Μετατροπή φωτονίων σε αναγνώσιμα σήματα.",
+        "howItWorks": "Scintillation crystals εκπέμπουν φως όταν χτυπηθούν από ακτινοβολία, και αυτό το φως ανιχνεύεται ηλεκτρονικά."
+      },
+      "en": {
+        "name": "PET scanner",
+        "summary": "Lutetium-based crystals enable fast accurate radiation detection.",
+        "whatItDoes": "Converts photon events into readable signals.",
+        "howItWorks": "Scintillation crystals emit light when struck by radiation, and that light is read electronically."
+      }
+    },
+    "mediaRef": "app-pet-ct"
+  },
+  {
+    "id": "hard-drive",
+    "sector": "consumer-tech",
+    "keyElements": [
+      "Nd",
+      "Pr",
+      "Dy"
+    ],
+    "translations": {
+      "el": {
+        "name": "Σκληρός δίσκος και μικρομοτέρ",
+        "summary": "Οι μικροί ισχυροί μαγνήτες κρατούν ακριβείς τις κινήσεις του actuator.",
+        "whatItDoes": "Ακρίβεια σε πολύ μικρές μηχανικές μετατοπίσεις.",
+        "howItWorks": "Το magnetic actuator τοποθετεί γρήγορα και με ακρίβεια την κεφαλή ανάγνωσης/εγγραφής."
+      },
+      "en": {
+        "name": "Hard drive and micromotors",
+        "summary": "Small powerful magnets keep actuator motion precise.",
+        "whatItDoes": "Precision in very small mechanical movements.",
+        "howItWorks": "The magnetic actuator quickly and precisely positions the read/write head."
+      }
+    },
+    "mediaRef": "app-hard-drive"
+  },
+  {
+    "id": "refinery",
+    "sector": "industry",
+    "keyElements": [
+      "La",
+      "Ce"
+    ],
+    "translations": {
+      "el": {
+        "name": "Διύλιση και καταλύτες",
+        "summary": "Λανθάνιο και κέριο είναι εξαιρετικά σημαντικά για βιομηχανικούς καταλύτες.",
+        "whatItDoes": "Επιταχύνουν αντιδράσεις και βελτιώνουν απόδοση διεργασιών.",
+        "howItWorks": "Οι επιφάνειες καταλυτών επηρεάζουν τον τρόπο που διασπώνται ή μετασχηματίζονται τα μόρια."
+      },
+      "en": {
+        "name": "Refining and catalysts",
+        "summary": "Lanthanum and cerium matter enormously in industrial catalysts.",
+        "whatItDoes": "They accelerate reactions and improve process efficiency.",
+        "howItWorks": "Catalyst surfaces change how molecules break down or transform."
+      }
+    },
+    "mediaRef": "ill-refinery"
+  },
+  {
+    "id": "laser-systems",
+    "sector": "science-defense",
+    "keyElements": [
+      "Nd",
+      "Er",
+      "Ho",
+      "Yb",
+      "Pr"
+    ],
+    "translations": {
+      "el": {
+        "name": "Laser συστήματα",
+        "summary": "Πολλά rare earths δίνουν συγκεκριμένα μήκη κύματος και σταθερότητα σε λέιζερ.",
+        "whatItDoes": "Στοχευμένη εκπομπή φωτός για μέτρηση, ιατρική ή βιομηχανία.",
+        "howItWorks": "Τα ιόντα των στοιχείων μέσα στο κατάλληλο μέσο διεγείρονται και απελευθερώνουν φως με ελεγχόμενο τρόπο."
+      },
+      "en": {
+        "name": "Laser systems",
+        "summary": "Many rare earths provide specific wavelengths and stability in lasers.",
+        "whatItDoes": "Targeted light output for measurement, medicine or industry.",
+        "howItWorks": "The element’s ions inside the host medium are excited and release light in a controlled way."
+      }
+    },
+    "mediaRef": "ill-laser-systems"
+  },
+  {
+    "id": "fighter-jet",
+    "sector": "science-defense",
+    "keyElements": [
+      "Sm",
+      "Nd",
+      "Dy",
+      "Y",
+      "Sc"
+    ],
+    "translations": {
+      "el": {
+        "name": "Αεροδιαστημικά και άμυνα",
+        "summary": "Συστήματα ραντάρ, αισθητήρες, κράματα και μαγνήτες συναντούν πολλές rare-earth συνθέσεις.",
+        "whatItDoes": "Υψηλή αντοχή, ακρίβεια αισθητήρων και συμπαγή ισχύ.",
+        "howItWorks": "Το σκάνδιο βελτιώνει κράματα, ενώ μαγνήτες και οπτικά στοιχεία υποστηρίζουν ηλεκτρονικά και αισθητήρες."
+      },
+      "en": {
+        "name": "Aerospace and defense",
+        "summary": "Radar systems, sensors, alloys and magnets rely on multiple rare-earth compositions.",
+        "whatItDoes": "High strength, sensor precision and compact power.",
+        "howItWorks": "Scandium improves alloys, while magnets and optical elements support electronics and sensors."
+      }
+    },
+    "mediaRef": "ill-fighter-jet"
+  },
+  {
+    "id": "robotics",
+    "sector": "industry",
+    "keyElements": [
+      "Nd",
+      "Pr",
+      "Dy",
+      "Sm"
+    ],
+    "translations": {
+      "el": {
+        "name": "Ρομποτική και αυτοματισμός",
+        "summary": "Μικροί κινητήρες υψηλής ροπής και ακρίβειας βασίζονται σε ισχυρούς μόνιμους μαγνήτες.",
+        "whatItDoes": "Απόδοση σε βραχίονες, servo drives και ακριβείς κινήσεις.",
+        "howItWorks": "Οι μόνιμοι μαγνήτες αυξάνουν την πυκνότητα ισχύος σε συμπαγείς electric drives."
+      },
+      "en": {
+        "name": "Robotics and automation",
+        "summary": "High-torque precision motors rely on strong permanent magnets.",
+        "whatItDoes": "Performance in robotic arms, servo drives and precise motion systems.",
+        "howItWorks": "Permanent magnets raise power density in compact electric drives."
+      }
+    },
+    "mediaRef": "app-electric-motor"
+  }
+]

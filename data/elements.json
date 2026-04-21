@@ -1,0 +1,512 @@
+[
+  {
+    "id": "scandium",
+    "symbol": "Sc",
+    "atomicNumber": 21,
+    "category": "alloy",
+    "translations": {
+      "el": {
+        "name": "Σκάνδιο",
+        "tagline": "Ελαφρά κράματα και αεροδιαστημική αντοχή",
+        "summary": "Το σκάνδιο βελτιώνει την αντοχή και τη συμπεριφορά κραμάτων αλουμινίου χωρίς μεγάλο βάρος.",
+        "uses": [
+          "Κράματα αλουμινίου για αεροδιαστημική",
+          "Φωτισμός υψηλής έντασης",
+          "Εξειδικευμένα κεραμικά και ηλεκτρονικά"
+        ],
+        "fact": "Δεν είναι λανθανίδα, αλλά ταξινομείται μαζί με τις σπάνιες γαίες λόγω παρόμοιας γεωχημικής συμπεριφοράς."
+      },
+      "en": {
+        "name": "Scandium",
+        "tagline": "Lightweight alloys and aerospace strength",
+        "summary": "Scandium improves aluminum alloys by adding strength and thermal stability without much weight.",
+        "uses": [
+          "Aluminum alloys for aerospace",
+          "High-intensity lighting",
+          "Specialty ceramics and electronics"
+        ],
+        "fact": "It is not a lanthanide, but it is grouped with rare earths because of similar geochemical behavior."
+      }
+    }
+  },
+  {
+    "id": "yttrium",
+    "symbol": "Y",
+    "atomicNumber": 39,
+    "category": "display",
+    "translations": {
+      "el": {
+        "name": "Ύττριο",
+        "tagline": "Οθόνες, κεραμικά και detectors",
+        "summary": "Το ύττριο χρησιμοποιείται σε φωσφόρους, προηγμένα κεραμικά και εξειδικευμένους ανιχνευτές.",
+        "uses": [
+          "Φωσφόροι οθονών και LED",
+          "Κεραμικά υψηλής αντοχής",
+          "Ιατρικοί και επιστημονικοί ανιχνευτές"
+        ],
+        "fact": "Παίζει βασικό ρόλο σε πολλές συνθέσεις φωσφόρων και τεχνικών κεραμικών."
+      },
+      "en": {
+        "name": "Yttrium",
+        "tagline": "Displays, ceramics and detectors",
+        "summary": "Yttrium is used in phosphors, advanced ceramics and specialized detectors.",
+        "uses": [
+          "Display and LED phosphors",
+          "High-performance ceramics",
+          "Medical and scientific detectors"
+        ],
+        "fact": "It plays a key role in many phosphor formulations and technical ceramics."
+      }
+    }
+  },
+  {
+    "id": "lanthanum",
+    "symbol": "La",
+    "atomicNumber": 57,
+    "category": "catalyst",
+    "translations": {
+      "el": {
+        "name": "Λανθάνιο",
+        "tagline": "Οπτικά, καταλύτες και μπαταρίες",
+        "summary": "Το λανθάνιο συναντάται σε οπτικά γυαλιά, καταλύτες διύλισης και ορισμένες επαναφορτιζόμενες μπαταρίες.",
+        "uses": [
+          "Φακοί και οπτικό γυαλί",
+          "Καταλύτες διύλισης",
+          "Μπαταρίες τύπου NiMH"
+        ],
+        "fact": "Βοηθά στη δημιουργία οπτικών γυαλιών με υψηλό δείκτη διάθλασης."
+      },
+      "en": {
+        "name": "Lanthanum",
+        "tagline": "Optics, catalysts and batteries",
+        "summary": "Lanthanum appears in optical glass, refining catalysts and some rechargeable batteries.",
+        "uses": [
+          "Lenses and optical glass",
+          "Refining catalysts",
+          "NiMH batteries"
+        ],
+        "fact": "It helps create high-refractive-index optical glass."
+      }
+    }
+  },
+  {
+    "id": "cerium",
+    "symbol": "Ce",
+    "atomicNumber": 58,
+    "category": "catalyst",
+    "translations": {
+      "el": {
+        "name": "Κέριο",
+        "tagline": "Καταλύτες, polishing και φίλτρα",
+        "summary": "Το κέριο είναι από τα πιο βιομηχανικά χρήσιμα rare earths, ιδιαίτερα σε καταλύτες και γυαλί.",
+        "uses": [
+          "Καταλύτες και αυτοκινητικοί μετατροπείς",
+          "Polishing γυαλιού",
+          "Χημικά φίλτρα και ειδικά υλικά"
+        ],
+        "fact": "Είναι από τα πιο άφθονα στοιχεία της ομάδας και συχνά το πρώτο που αξιοποιείται εμπορικά."
+      },
+      "en": {
+        "name": "Cerium",
+        "tagline": "Catalysts, polishing and filters",
+        "summary": "Cerium is one of the most industrially useful rare earths, especially in catalysts and glass processing.",
+        "uses": [
+          "Catalysts and converters",
+          "Glass polishing",
+          "Specialty chemical filters"
+        ],
+        "fact": "It is one of the most abundant elements in the group and often the first to be commercialized."
+      }
+    }
+  },
+  {
+    "id": "praseodymium",
+    "symbol": "Pr",
+    "atomicNumber": 59,
+    "category": "magnet",
+    "translations": {
+      "el": {
+        "name": "Πρασεοδύμιο",
+        "tagline": "Μαγνήτες και οπτικά συστήματα",
+        "summary": "Το πρασεοδύμιο συνεργάζεται συχνά με το νεοδύμιο σε μαγνήτες υψηλής απόδοσης.",
+        "uses": [
+          "Μόνιμοι μαγνήτες",
+          "Οπτικά φίλτρα και γυαλιά",
+          "Εξειδικευμένα κράματα"
+        ],
+        "fact": "Στους μαγνήτες λειτουργεί ως ενισχυτής απόδοσης μαζί με το νεοδύμιο."
+      },
+      "en": {
+        "name": "Praseodymium",
+        "tagline": "Magnets and optical systems",
+        "summary": "Praseodymium often works with neodymium in high-performance permanent magnets.",
+        "uses": [
+          "Permanent magnets",
+          "Optical filters and glass",
+          "Specialty alloys"
+        ],
+        "fact": "In magnets it often acts as a performance partner to neodymium."
+      }
+    }
+  },
+  {
+    "id": "neodymium",
+    "symbol": "Nd",
+    "atomicNumber": 60,
+    "category": "magnet",
+    "translations": {
+      "el": {
+        "name": "Νεοδύμιο",
+        "tagline": "Ο βασιλιάς των μικρών ισχυρών μαγνητών",
+        "summary": "Το νεοδύμιο χρησιμοποιείται στους ισχυρότερους εμπορικούς μόνιμους μαγνήτες για ήχο, μοτέρ και ηλεκτροκίνηση.",
+        "uses": [
+          "Ηχεία, ακουστικά και haptics",
+          "Κινητήρες EV",
+          "Ανεμογεννήτριες και σκληροί δίσκοι"
+        ],
+        "fact": "Χωρίς νεοδύμιο πολλά μικροσκοπικά ηχεία και compact μοτέρ θα ήταν πιο αδύναμα ή μεγαλύτερα."
+      },
+      "en": {
+        "name": "Neodymium",
+        "tagline": "The king of compact powerful magnets",
+        "summary": "Neodymium powers the strongest commercial permanent magnets used in sound systems, motors and e-mobility.",
+        "uses": [
+          "Speakers, headphones and haptics",
+          "EV motors",
+          "Wind turbines and hard drives"
+        ],
+        "fact": "Without neodymium many tiny speakers and compact motors would be weaker or larger."
+      }
+    }
+  },
+  {
+    "id": "promethium",
+    "symbol": "Pm",
+    "atomicNumber": 61,
+    "category": "niche",
+    "translations": {
+      "el": {
+        "name": "Προμήθιο",
+        "tagline": "Σπάνιο, ραδιενεργό και εξειδικευμένο",
+        "summary": "Το προμήθιο δεν έχει σταθερά ισότοπα και χρησιμοποιείται μόνο σε πολύ εξειδικευμένες εφαρμογές.",
+        "uses": [
+          "Ραδιενεργές πηγές βήτα",
+          "Ειδικοί αισθητήρες",
+          "Πειραματικές μικρο-πηγές ενέργειας"
+        ],
+        "fact": "Είναι το μόνο σπάνιο γαιώδες στοιχείο χωρίς σταθερά ισότοπα."
+      },
+      "en": {
+        "name": "Promethium",
+        "tagline": "Rare, radioactive and specialized",
+        "summary": "Promethium has no stable isotopes and is used only in highly specialized applications.",
+        "uses": [
+          "Beta radiation sources",
+          "Specialized sensors",
+          "Experimental micro-power sources"
+        ],
+        "fact": "It is the only rare-earth element without stable isotopes."
+      }
+    }
+  },
+  {
+    "id": "samarium",
+    "symbol": "Sm",
+    "atomicNumber": 62,
+    "category": "magnet",
+    "translations": {
+      "el": {
+        "name": "Σαμάριο",
+        "tagline": "Μαγνήτες υψηλής θερμοκρασίας",
+        "summary": "Το σαμάριο είναι κρίσιμο για μαγνήτες που πρέπει να δουλεύουν σε σκληρές θερμικές συνθήκες.",
+        "uses": [
+          "Μαγνήτες SmCo",
+          "Πυρηνικές εφαρμογές",
+          "Εξειδικευμένα λέιζερ"
+        ],
+        "fact": "Οι μαγνήτες σαμαρίου-κοβαλτίου αντέχουν εκεί όπου άλλοι μαγνήτες αρχίζουν να υποχωρούν."
+      },
+      "en": {
+        "name": "Samarium",
+        "tagline": "High-temperature magnets",
+        "summary": "Samarium is critical for magnets that need to survive harsh thermal conditions.",
+        "uses": [
+          "SmCo magnets",
+          "Nuclear applications",
+          "Specialized lasers"
+        ],
+        "fact": "Samarium-cobalt magnets keep performing where other magnets begin to fail."
+      }
+    }
+  },
+  {
+    "id": "europium",
+    "symbol": "Eu",
+    "atomicNumber": 63,
+    "category": "display",
+    "translations": {
+      "el": {
+        "name": "Ευρώπιο",
+        "tagline": "Χρώμα και φωσφόροι",
+        "summary": "Το ευρώπιο είναι βασικό στοιχείο για κόκκινους και μπλε φωσφόρους σε οθόνες και φωτισμό.",
+        "uses": [
+          "Φωσφόροι οθονών",
+          "LED και λαμπτήρες",
+          "Εξειδικευμένοι ανιχνευτές"
+        ],
+        "fact": "Το έντονο κόκκινο σε πολλές παλιότερες αλλά και ορισμένες σύγχρονες οπτικές εφαρμογές χρωστά πολλά στο ευρώπιο."
+      },
+      "en": {
+        "name": "Europium",
+        "tagline": "Color and phosphors",
+        "summary": "Europium is essential for red and blue phosphors in displays and lighting.",
+        "uses": [
+          "Display phosphors",
+          "LEDs and lamps",
+          "Specialized detectors"
+        ],
+        "fact": "Vivid red output in many optical systems owes a lot to europium."
+      }
+    }
+  },
+  {
+    "id": "gadolinium",
+    "symbol": "Gd",
+    "atomicNumber": 64,
+    "category": "medical",
+    "translations": {
+      "el": {
+        "name": "Γαδολίνιο",
+        "tagline": "Ιατρική απεικόνιση και μαγνητισμός",
+        "summary": "Το γαδολίνιο είναι γνωστό για εφαρμογές MRI και εξειδικευμένα μαγνητικά υλικά.",
+        "uses": [
+          "Σκιαγραφικά MRI",
+          "Ανιχνευτές και μνήμες",
+          "Πυρηνική θωράκιση"
+        ],
+        "fact": "Έχει πολύ ισχυρή παραμαγνητική συμπεριφορά, γι’ αυτό και είναι τόσο σημαντικό στην απεικόνιση."
+      },
+      "en": {
+        "name": "Gadolinium",
+        "tagline": "Medical imaging and magnetism",
+        "summary": "Gadolinium is well known for MRI use and specialty magnetic materials.",
+        "uses": [
+          "MRI contrast agents",
+          "Detectors and memory materials",
+          "Nuclear shielding"
+        ],
+        "fact": "It has very strong paramagnetic behavior, which is why it matters so much in imaging."
+      }
+    }
+  },
+  {
+    "id": "terbium",
+    "symbol": "Tb",
+    "atomicNumber": 65,
+    "category": "display",
+    "translations": {
+      "el": {
+        "name": "Τέρβιο",
+        "tagline": "Πράσινοι φωσφόροι και ανθεκτικοί μαγνήτες",
+        "summary": "Το τέρβιο χρησιμοποιείται σε πράσινους φωσφόρους και σε συνθέσεις μαγνητών υψηλής αντοχής.",
+        "uses": [
+          "Πράσινοι φωσφόροι",
+          "Μόνιμοι μαγνήτες",
+          "Οπτικές και laser εφαρμογές"
+        ],
+        "fact": "Είναι μικρό αλλά στρατηγικό κομμάτι σε μαγνήτες που πρέπει να παραμένουν σταθεροί σε θερμότητα."
+      },
+      "en": {
+        "name": "Terbium",
+        "tagline": "Green phosphors and durable magnets",
+        "summary": "Terbium is used in green phosphors and in durable magnet compositions.",
+        "uses": [
+          "Green phosphors",
+          "Permanent magnets",
+          "Optical and laser systems"
+        ],
+        "fact": "It is a small but strategic ingredient in magnets that must remain stable under heat."
+      }
+    }
+  },
+  {
+    "id": "dysprosium",
+    "symbol": "Dy",
+    "atomicNumber": 66,
+    "category": "magnet",
+    "translations": {
+      "el": {
+        "name": "Δυσπρόσιο",
+        "tagline": "Θερμική αντοχή για ισχυρούς μαγνήτες",
+        "summary": "Το δυσπρόσιο βοηθά τους μόνιμους μαγνήτες να διατηρούν απόδοση σε υψηλές θερμοκρασίες.",
+        "uses": [
+          "Μαγνήτες EV και ανεμογεννητριών",
+          "Λέιζερ",
+          "Πυρηνικές εφαρμογές"
+        ],
+        "fact": "Στους traction motors κάνει τη διαφορά ανάμεσα σε απλό μαγνήτη και μαγνήτη που αντέχει σκληρή χρήση."
+      },
+      "en": {
+        "name": "Dysprosium",
+        "tagline": "Thermal resilience for powerful magnets",
+        "summary": "Dysprosium helps permanent magnets maintain performance at high temperatures.",
+        "uses": [
+          "EV and wind-turbine magnets",
+          "Lasers",
+          "Nuclear applications"
+        ],
+        "fact": "In traction motors it separates an ordinary magnet from one that survives hard use."
+      }
+    }
+  },
+  {
+    "id": "holmium",
+    "symbol": "Ho",
+    "atomicNumber": 67,
+    "category": "laser",
+    "translations": {
+      "el": {
+        "name": "Όλμιο",
+        "tagline": "Λέιζερ ακριβείας",
+        "summary": "Το όλμιο εμφανίζεται σε λέιζερ και εξειδικευμένα μαγνητικά ή πυρηνικά συστήματα.",
+        "uses": [
+          "Λέιζερ",
+          "Επιστημονικά όργανα",
+          "Εξειδικευμένοι μαγνήτες"
+        ],
+        "fact": "Διακρίνεται για την πολύ υψηλή μαγνητική ροπή του."
+      },
+      "en": {
+        "name": "Holmium",
+        "tagline": "Precision lasers",
+        "summary": "Holmium appears in lasers and in specialized magnetic or nuclear systems.",
+        "uses": [
+          "Lasers",
+          "Scientific instruments",
+          "Specialty magnets"
+        ],
+        "fact": "It is known for having a very high magnetic moment."
+      }
+    }
+  },
+  {
+    "id": "erbium",
+    "symbol": "Er",
+    "atomicNumber": 68,
+    "category": "laser",
+    "translations": {
+      "el": {
+        "name": "Έρβιο",
+        "tagline": "Οπτικές ίνες και υπέρυθρο",
+        "summary": "Το έρβιο είναι βασικό σε ενισχυτές οπτικών ινών και ορισμένα υπέρυθρα λέιζερ.",
+        "uses": [
+          "Οπτικές ίνες",
+          "Λέιζερ",
+          "Ειδικά γυαλιά"
+        ],
+        "fact": "Στον κόσμο των οπτικών ινών, το έρβιο κάνει την ενίσχυση φωτεινού σήματος πολύ πιο πρακτική."
+      },
+      "en": {
+        "name": "Erbium",
+        "tagline": "Fiber optics and infrared",
+        "summary": "Erbium is central to fiber-optic amplifiers and some infrared lasers.",
+        "uses": [
+          "Fiber optics",
+          "Lasers",
+          "Specialty glass"
+        ],
+        "fact": "In fiber networks, erbium makes light-signal amplification far more practical."
+      }
+    }
+  },
+  {
+    "id": "thulium",
+    "symbol": "Tm",
+    "atomicNumber": 69,
+    "category": "medical",
+    "translations": {
+      "el": {
+        "name": "Θούλιο",
+        "tagline": "Φορητή ακτινογραφία και εξειδικευμένα lasers",
+        "summary": "Το θούλιο εμφανίζεται σε πιο εξειδικευμένες ιατρικές και μικροκυματικές εφαρμογές.",
+        "uses": [
+          "Φορητές πηγές ακτινοβολίας",
+          "Λέιζερ",
+          "Ειδικά ηλεκτρονικά"
+        ],
+        "fact": "Είναι από τα λιγότερο συνηθισμένα στην εμπορική καθημερινότητα αλλά παραμένει χρήσιμο όπου απαιτείται ακρίβεια."
+      },
+      "en": {
+        "name": "Thulium",
+        "tagline": "Portable X-ray and specialty lasers",
+        "summary": "Thulium appears in more specialized medical and microwave applications.",
+        "uses": [
+          "Portable radiation sources",
+          "Lasers",
+          "Special electronics"
+        ],
+        "fact": "It is less common in everyday commerce but still valuable where precision matters."
+      }
+    }
+  },
+  {
+    "id": "ytterbium",
+    "symbol": "Yb",
+    "atomicNumber": 70,
+    "category": "laser",
+    "translations": {
+      "el": {
+        "name": "Υττέρβιο",
+        "tagline": "Fiber lasers και ηλεκτρονικά ακριβείας",
+        "summary": "Το υττέρβιο χρησιμοποιείται σε fiber lasers και ορισμένα εξειδικευμένα υλικά μπαταριών.",
+        "uses": [
+          "Fiber lasers",
+          "Οπτικές ίνες",
+          "Εξειδικευμένες μπαταρίες"
+        ],
+        "fact": "Στους βιομηχανικούς laser σταθερότητας και απόδοσης, το υττέρβιο είναι σοβαρός παίκτης."
+      },
+      "en": {
+        "name": "Ytterbium",
+        "tagline": "Fiber lasers and precision electronics",
+        "summary": "Ytterbium is used in fiber lasers and in some specialty battery materials.",
+        "uses": [
+          "Fiber lasers",
+          "Optical fibers",
+          "Specialty batteries"
+        ],
+        "fact": "In industrial lasers that need stability and efficiency, ytterbium is a serious player."
+      }
+    }
+  },
+  {
+    "id": "lutetium",
+    "symbol": "Lu",
+    "atomicNumber": 71,
+    "category": "medical",
+    "translations": {
+      "el": {
+        "name": "Λουτήτιο",
+        "tagline": "PET imaging και detectors",
+        "summary": "Το λουτήτιο είναι κρίσιμο σε detectors υψηλής απόδοσης και σε προηγμένες ιατρικές απεικονίσεις.",
+        "uses": [
+          "PET detectors",
+          "Scintillation crystals",
+          "Εξειδικευμένα οπτικά υλικά"
+        ],
+        "fact": "Είναι από τα πιο βαριά και τεχνολογικά χρήσιμα στοιχεία της ομάδας."
+      },
+      "en": {
+        "name": "Lutetium",
+        "tagline": "PET imaging and detectors",
+        "summary": "Lutetium is critical in high-performance detectors and advanced medical imaging.",
+        "uses": [
+          "PET detectors",
+          "Scintillation crystals",
+          "Specialty optical materials"
+        ],
+        "fact": "It is one of the heaviest and most technologically useful elements in the group."
+      }
+    }
+  }
+]

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="ATLAS">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(20 62% 14%)"/>
+      <stop offset="100%" stop-color="hsl(75 62% 8%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="32" fill="url(#bg)"/>
+  <g opacity="0.12" stroke="white" fill="none">
+    <path d="M78 112c58-36 126-58 190-58s132 22 194 58"/>
+    <path d="M78 314c58-36 126-58 190-58s132 22 194 58"/>
+  </g>
+  <circle cx="146" cy="184" r="26" fill="hsl(20 88% 60%)" opacity="0.86"/>
+  <circle cx="252" cy="184" r="26" fill="hsl(50 88% 54%)" opacity="0.86"/>
+  <circle cx="358" cy="184" r="26" fill="hsl(80 88% 50%)" opacity="0.86"/>
+  <circle cx="464" cy="184" r="26" fill="hsl(110 88% 54%)" opacity="0.86"/>
+  <path d="M172 184h54m52 0h54m52 0h54" stroke="rgba(255,255,255,0.45)" stroke-width="5" stroke-linecap="round"/>
+  <text x="64" y="88" fill="white" font-family="Inter,Segoe UI,Arial" font-size="18" letter-spacing="3">ATLAS</text>
+  <rect x="70" y="256" rx="16" ry="16" width="86" height="34" fill="rgba(255,255,255,0.08)"/><text x="113" y="278" text-anchor="middle" fill="white" font-family="Inter,Segoe UI,Arial" font-size="12">Mine</text><rect x="170" y="256" rx="16" ry="16" width="86" height="34" fill="rgba(255,255,255,0.08)"/><text x="213" y="278" text-anchor="middle" fill="white" font-family="Inter,Segoe UI,Arial" font-size="12">Separation</text><rect x="270" y="256" rx="16" ry="16" width="86" height="34" fill="rgba(255,255,255,0.08)"/><text x="313" y="278" text-anchor="middle" fill="white" font-family="Inter,Segoe UI,Arial" font-size="12">Refining</text><rect x="370" y="256" rx="16" ry="16" width="86" height="34" fill="rgba(255,255,255,0.08)"/><text x="413" y="278" text-anchor="middle" fill="white" font-family="Inter,Segoe UI,Arial" font-size="12">Magnets</text><rect x="470" y="256" rx="16" ry="16" width="86" height="34" fill="rgba(255,255,255,0.08)"/><text x="513" y="278" text-anchor="middle" fill="white" font-family="Inter,Segoe UI,Arial" font-size="12">Devices</text>
+</svg>

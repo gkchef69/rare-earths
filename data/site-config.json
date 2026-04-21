@@ -1,0 +1,78 @@
+{
+  "projectName": "Rare Earth Atlas",
+  "defaultLanguage": "el",
+  "supportedLanguages": [
+    "el",
+    "en"
+  ],
+  "dataMode": "json",
+  "apiBaseUrl": "/api/v1",
+  "theme": "dark",
+  "featuredElements": [
+    "neodymium",
+    "lanthanum",
+    "dysprosium",
+    "gadolinium"
+  ],
+  "featuredApplications": [
+    "smartphone",
+    "electric-vehicle",
+    "wind-turbine",
+    "mri"
+  ],
+  "featuredArticles": [
+    "rare-earths-101",
+    "smartphone-inside",
+    "ev-and-energy",
+    "china-and-supply-chain"
+  ],
+  "featuredGallery": [
+    "gallery-nd-magnet",
+    "gallery-smartphone",
+    "gallery-deposit",
+    "gallery-overview"
+  ],
+  "stats": [
+    {
+      "value": "17",
+      "label": {
+        "el": "στοιχεία στην οικογένεια",
+        "en": "elements in the family"
+      }
+    },
+    {
+      "value": "28",
+      "label": {
+        "el": "εικόνες και plates",
+        "en": "photos and plates"
+      }
+    },
+    {
+      "value": "5",
+      "label": {
+        "el": "κύριες ζώνες χρήσης",
+        "en": "major use zones"
+      }
+    },
+    {
+      "value": "3",
+      "label": {
+        "el": "κρίσιμα στάδια αλυσίδας",
+        "en": "critical chain stages"
+      }
+    }
+  ],
+  "featuredMedia": [
+    "app-smartphone-internals",
+    "material-nd-magnet",
+    "app-electric-motor",
+    "industry-ree-deposit"
+  ],
+  "editorPickArticle": "china-and-supply-chain",
+  "heroMedia": [
+    "material-nd-magnet",
+    "app-smartphone-internals",
+    "app-wind-turbine",
+    "editorial-supply-chain"
+  ]
+}

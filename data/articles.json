@@ -1,0 +1,342 @@
+[
+  {
+    "id": "rare-earths-101",
+    "category": "overview",
+    "readingTime": 8,
+    "sourceRefs": [
+      "usgs-overview",
+      "iea-executive",
+      "britannica-rare-earth"
+    ],
+    "translations": {
+      "el": {
+        "title": "Τι είναι οι σπάνιες γαίες πραγματικά",
+        "excerpt": "Όχι, δεν είναι μυθικά μέταλλα από sci-fi. Είναι μια ομάδα 17 στοιχείων με δυσανάλογη βιομηχανική σημασία.",
+        "intro": "Οι σπάνιες γαίες δεν είναι σπάνιες επειδή δεν υπάρχουν, αλλά επειδή σπάνια βρίσκονται σε συγκεντρώσεις που να συμφέρουν οικονομικά την εξόρυξη και τον διαχωρισμό τους. Το πραγματικό παιχνίδι είναι η επεξεργασία, όχι απλώς το πέτρωμα.",
+        "sections": [
+          {
+            "heading": "Η ομάδα των 17",
+            "body": "Η οικογένεια περιλαμβάνει τις 15 λανθανίδες, μαζί με το σκάνδιο και το ύττριο. Αυτά τα στοιχεία έχουν παρόμοια χημική συμπεριφορά και εμφανίζονται συχνά μαζί σε μεταλλεύματα."
+          },
+          {
+            "heading": "Γιατί είναι στρατηγικά",
+            "body": "Χρησιμοποιούνται σε μαγνήτες, φωσφόρους, οπτικά υλικά, καταλύτες, ιατρική απεικόνιση, λέιζερ και προηγμένα κράματα. Άρα δεν αφορούν μόνο τεχνολογικά γκάτζετ αλλά ολόκληρη τη βιομηχανική υποδομή."
+          },
+          {
+            "heading": "Το bottleneck της επεξεργασίας",
+            "body": "Η εμπορική ισχύς συγκεντρώνεται κυρίως στη separation, στο refining και στην downstream κατασκευή μαγνητών. Εκεί η γεωπολιτική γίνεται πιο ενδιαφέρουσα από όσο θα έπρεπε να είναι για χημεία πρώτου έτους."
+          }
+        ]
+      },
+      "en": {
+        "title": "What rare earths actually are",
+        "excerpt": "No, they are not mythical sci-fi metals. They are a 17-element group with outsized industrial importance.",
+        "intro": "Rare earths are not rare because they barely exist. They are rare because economically viable concentrations and separation chains are hard to build. The real game is processing, not just digging rock.",
+        "sections": [
+          {
+            "heading": "The group of 17",
+            "body": "The family includes the 15 lanthanides plus scandium and yttrium. These elements share similar chemical behavior and often occur together in ores."
+          },
+          {
+            "heading": "Why they are strategic",
+            "body": "They are used in magnets, phosphors, optical materials, catalysts, medical imaging, lasers and advanced alloys. That means they underpin not just gadgets but entire industrial systems."
+          },
+          {
+            "heading": "The processing bottleneck",
+            "body": "Commercial power sits mainly in separation, refining and downstream magnet manufacturing. That is where geopolitics becomes more dramatic than chemistry really deserves."
+          }
+        ]
+      }
+    },
+    "coverMediaRef": "material-oxides",
+    "mediaRefs": [
+      "material-oxides",
+      "material-bastnaesite",
+      "material-monazite",
+      "editorial-atlas-overview"
+    ]
+  },
+  {
+    "id": "smartphone-inside",
+    "category": "consumer-tech",
+    "readingTime": 7,
+    "sourceRefs": [
+      "usgs-phone",
+      "apple-recycler-guide",
+      "acs-smartphones"
+    ],
+    "translations": {
+      "el": {
+        "title": "Πώς δουλεύουν οι σπάνιες γαίες μέσα σε ένα smartphone",
+        "excerpt": "Το κινητό δεν χρειάζεται rare earths παντού. Τις χρειάζεται στα σωστά σημεία: μαγνήτες, φακοί, haptics και ορισμένα οπτικά υλικά.",
+        "intro": "Όταν πατάς play στο κινητό σου, η αλυσίδα ξεκινά από software και καταλήγει σε φυσική. Οι σπάνιες γαίες μπαίνουν στο τελικό υλικό στάδιο, εκεί όπου ένα πολύ μικρό εξάρτημα πρέπει να είναι παράλογα αποδοτικό.",
+        "sections": [
+          {
+            "heading": "Ήχος και δόνηση",
+            "body": "Νεοδύμιο, πρασεοδύμιο και μερικές φορές δυσπρόσιο στηρίζουν τους μόνιμους μαγνήτες σε ηχείο, ακουστικό και haptic engine. Έτσι έχεις ισχυρό ήχο και ακριβές feedback σε ελάχιστο όγκο."
+          },
+          {
+            "heading": "Κάμερα και οπτικό γυαλί",
+            "body": "Το λανθάνιο βελτιώνει οπτικά γυαλιά με υψηλό δείκτη διάθλασης. Αυτό επιτρέπει καλύτερους φακούς χωρίς να μετατραπεί το camera bump σε αρχιτεκτονικό έργο."
+          },
+          {
+            "heading": "Display chain",
+            "body": "Σε ορισμένες τεχνολογίες οθονών ή φωτισμού χρησιμοποιούνται στοιχεία όπως ευρώπιο, τέρβιο και ύττριο για φωσφόρους και χρωματική απόδοση. Το ακριβές μίγμα αλλάζει ανά τεχνολογία panel."
+          }
+        ]
+      },
+      "en": {
+        "title": "How rare earths work inside a smartphone",
+        "excerpt": "Phones do not need rare earths everywhere. They need them in the right places: magnets, lenses, haptics and some optical materials.",
+        "intro": "When you press play on a phone, the chain starts in software and ends in physics. Rare earths enter at the material stage, where tiny hardware must perform absurdly well.",
+        "sections": [
+          {
+            "heading": "Sound and vibration",
+            "body": "Neodymium, praseodymium and sometimes dysprosium support permanent magnets in speakers, receivers and haptic engines. That delivers strong sound and precise tactile feedback in minimal volume."
+          },
+          {
+            "heading": "Camera and optical glass",
+            "body": "Lanthanum improves high-refractive-index optical glass. That enables better lenses without turning the camera bump into an architecture project."
+          },
+          {
+            "heading": "Display chain",
+            "body": "In some display or lighting technologies, europium, terbium and yttrium help with phosphors and color output. The exact mix changes with the panel technology."
+          }
+        ]
+      }
+    },
+    "coverMediaRef": "app-smartphone-internals",
+    "mediaRefs": [
+      "app-smartphone-internals",
+      "material-nd-magnet",
+      "ill-smartphone"
+    ]
+  },
+  {
+    "id": "ev-and-energy",
+    "category": "energy",
+    "readingTime": 9,
+    "sourceRefs": [
+      "iea-executive",
+      "usgs-overview",
+      "doe-critical-materials"
+    ],
+    "translations": {
+      "el": {
+        "title": "EVs, ανεμογεννήτριες και η εποχή των μαγνητών",
+        "excerpt": "Αν θες μικρότερο, ισχυρότερο και αποδοτικότερο μοτέρ, μπαίνεις βαθιά στον κόσμο Nd-Pr-Dy-Tb.",
+        "intro": "Οι μόνιμοι μαγνήτες υψηλής απόδοσης είναι η καρδιά πολλών traction motors και direct-drive γεννητριών. Το κόστος, η διαθεσιμότητα και η γεωπολιτική τους επιρροή είναι πια δομικό κομμάτι της ενεργειακής μετάβασης.",
+        "sections": [
+          {
+            "heading": "Power density",
+            "body": "Η χρήση νεοδυμίου και πρασεοδυμίου επιτρέπει ισχυρούς μαγνήτες με μεγάλη πυκνότητα ισχύος. Αυτό κρατά μοτέρ και γεννήτριες πιο συμπαγή και αποδοτικά."
+          },
+          {
+            "heading": "Θερμική σταθερότητα",
+            "body": "Το δυσπρόσιο και το τέρβιο βοηθούν τους μαγνήτες να αντέχουν υψηλές θερμοκρασίες. Χωρίς αυτά, ο σχεδιασμός γίνεται πιο δύσκολος ή απαιτεί συμβιβασμούς."
+          },
+          {
+            "heading": "Το πρόβλημα της αλυσίδας",
+            "body": "Ακόμη και όταν η εξόρυξη γίνεται εκτός Κίνας, το refining και η downstream παραγωγή συχνά περνούν από πολύ συγκεκριμένους βιομηχανικούς κόμβους."
+          }
+        ]
+      },
+      "en": {
+        "title": "EVs, wind turbines and the magnet era",
+        "excerpt": "If you want smaller, stronger and more efficient motors, you end up deep in the world of Nd-Pr-Dy-Tb.",
+        "intro": "High-performance permanent magnets sit at the center of many traction motors and direct-drive generators. Their cost, availability and geopolitics are now structural parts of the energy transition.",
+        "sections": [
+          {
+            "heading": "Power density",
+            "body": "Neodymium and praseodymium enable powerful magnets with high power density. That keeps motors and generators more compact and efficient."
+          },
+          {
+            "heading": "Thermal stability",
+            "body": "Dysprosium and terbium help magnets survive elevated temperatures. Without them, engineering gets harder or tradeoffs increase."
+          },
+          {
+            "heading": "The chain problem",
+            "body": "Even when mining happens outside China, refining and downstream manufacturing often pass through a narrow set of industrial hubs."
+          }
+        ]
+      }
+    },
+    "coverMediaRef": "app-electric-motor",
+    "mediaRefs": [
+      "app-electric-motor",
+      "app-wind-turbine",
+      "app-ev-car",
+      "ill-ev"
+    ]
+  },
+  {
+    "id": "medicine-and-imaging",
+    "category": "medical",
+    "readingTime": 7,
+    "sourceRefs": [
+      "usgs-overview",
+      "nih-gadolinium",
+      "nibib-pet"
+    ],
+    "translations": {
+      "el": {
+        "title": "Ιατρική, MRI και σπάνιες γαίες",
+        "excerpt": "Το γαδολίνιο και το λουτήτιο αποδεικνύουν ότι οι rare earths δεν είναι μόνο υπόθεση βιομηχανίας και άμυνας.",
+        "intro": "Στην ιατρική απεικόνιση οι σπάνιες γαίες μετατρέπουν δύσκολα φυσικά φαινόμενα σε εικόνα που διαβάζεται κλινικά. Εκεί η χημεία δεν είναι θεωρία. Είναι εργαλείο διάγνωσης.",
+        "sections": [
+          {
+            "heading": "MRI contrast",
+            "body": "Το γαδολίνιο αλλάζει τον τρόπο που συμπεριφέρονται μαγνητικά τα σήματα στο MRI, βελτιώνοντας την αντίθεση σε συγκεκριμένα πρωτόκολλα απεικόνισης."
+          },
+          {
+            "heading": "PET detectors",
+            "body": "Κρύσταλλοι με λουτήτιο χρησιμοποιούνται για να μετατρέπουν συμβάντα ακτινοβολίας σε φωτεινά σήματα που καταγράφονται γρήγορα και ακριβώς."
+          },
+          {
+            "heading": "Υψηλή αξία, μικρές ποσότητες",
+            "body": "Οι ιατρικές εφαρμογές μπορεί να μη χρειάζονται τεράστιους τόνους, αλλά απαιτούν υλικά υψηλής καθαρότητας και αξιόπιστη εφοδιαστική αλυσίδα."
+          }
+        ]
+      },
+      "en": {
+        "title": "Medicine, MRI and rare earths",
+        "excerpt": "Gadolinium and lutetium prove rare earths are not only about industry and defense.",
+        "intro": "In medical imaging, rare earths turn difficult physical effects into clinically readable images. Chemistry stops being abstract and becomes a diagnostic tool.",
+        "sections": [
+          {
+            "heading": "MRI contrast",
+            "body": "Gadolinium changes magnetic signal behavior in MRI, improving contrast in specific imaging protocols."
+          },
+          {
+            "heading": "PET detectors",
+            "body": "Lutetium-based crystals convert radiation events into light signals that can be measured quickly and accurately."
+          },
+          {
+            "heading": "High value, small volumes",
+            "body": "Medical uses may not require huge tonnage, but they demand very high purity and reliable supply chains."
+          }
+        ]
+      }
+    },
+    "coverMediaRef": "app-mri",
+    "mediaRefs": [
+      "app-mri",
+      "app-pet-ct",
+      "ill-mri",
+      "ill-pet"
+    ]
+  },
+  {
+    "id": "china-and-supply-chain",
+    "category": "geopolitics",
+    "readingTime": 10,
+    "sourceRefs": [
+      "usgs-production-2025",
+      "iea-executive",
+      "csis-controls"
+    ],
+    "translations": {
+      "el": {
+        "title": "Ποιος ελέγχει την αλυσίδα των σπάνιων γαιών",
+        "excerpt": "Η εξόρυξη είναι μόνο η αρχή. Η πραγματική ισχύς κρύβεται σε separation, refining και magnets.",
+        "intro": "Αν κοιτάξεις μόνο ποιος σκάβει, χάνεις το μισό έργο. Η αλυσίδα αξίας των rare earths περιλαμβάνει μεταλλεύματα, χημικό διαχωρισμό, καθαρισμό, μετατροπή σε alloys και τελική κατασκευή μαγνητών ή άλλων λειτουργικών υλικών.",
+        "sections": [
+          {
+            "heading": "Mining vs refining",
+            "body": "Η παραγωγή ορυκτού δεν σημαίνει αυτόματα έλεγχο της αγοράς. Χωρίς separation και refining, η αξία μένει ημιτελής."
+          },
+          {
+            "heading": "Γιατί η Κίνα κυριαρχεί",
+            "body": "Η συγκέντρωση τεχνογνωσίας, βιομηχανικών υποδομών και downstream κατασκευής μαγνητών έχει δώσει στην Κίνα πολύ μεγαλύτερη επιρροή από ό,τι δείχνει μόνο το mining."
+          },
+          {
+            "heading": "Τι προσπαθεί να αλλάξει η Δύση",
+            "body": "ΗΠΑ, Αυστραλία, Ευρώπη και άλλοι παίκτες επενδύουν σε mining, processing και recycling για να μειώσουν το στρατηγικό bottleneck."
+          }
+        ]
+      },
+      "en": {
+        "title": "Who controls the rare-earth supply chain",
+        "excerpt": "Mining is only the beginning. Real power hides in separation, refining and magnets.",
+        "intro": "If you look only at who digs, you miss half the picture. The rare-earth value chain includes ore, chemical separation, refining, conversion to alloys and final manufacturing of magnets or other functional materials.",
+        "sections": [
+          {
+            "heading": "Mining vs refining",
+            "body": "Ore production does not automatically mean market control. Without separation and refining, the value chain remains unfinished."
+          },
+          {
+            "heading": "Why China dominates",
+            "body": "A concentration of know-how, industrial infrastructure and downstream magnet manufacturing has given China more leverage than mining numbers alone suggest."
+          },
+          {
+            "heading": "What others are trying to build",
+            "body": "The US, Australia, Europe and others are investing in mining, processing and recycling to reduce the strategic bottleneck."
+          }
+        ]
+      }
+    },
+    "coverMediaRef": "industry-ree-deposit",
+    "mediaRefs": [
+      "industry-ree-deposit",
+      "editorial-supply-chain",
+      "ill-refinery"
+    ]
+  },
+  {
+    "id": "recycling-and-substitution",
+    "category": "future",
+    "readingTime": 8,
+    "sourceRefs": [
+      "iea-executive",
+      "doe-critical-materials",
+      "eu-crm"
+    ],
+    "translations": {
+      "el": {
+        "title": "Ανακύκλωση, υποκατάσταση και το επόμενο κεφάλαιο",
+        "excerpt": "Το μέλλον δεν είναι μόνο περισσότερα ορυχεία. Είναι καλύτερη ανάκτηση, καλύτερος σχεδιασμός και έξυπνες εναλλακτικές.",
+        "intro": "Καθώς αυξάνεται η ζήτηση, η βιομηχανία ψάχνει τρεις απαντήσεις: περισσότερη πρωτογενή παραγωγή, καλύτερη ανακύκλωση και τεχνολογίες που χρειάζονται λιγότερα ή διαφορετικά κρίσιμα υλικά.",
+        "sections": [
+          {
+            "heading": "Γιατί η ανακύκλωση είναι δύσκολη",
+            "body": "Πολλά rare earths βρίσκονται σε μικρές ποσότητες διάσπαρτες μέσα σε σύνθετα προϊόντα. Η οικονομική ανάκτηση δεν είναι απλή υπόθεση."
+          },
+          {
+            "heading": "Design for recovery",
+            "body": "Αν προϊόντα σχεδιάζονται εξαρχής με αποσυναρμολόγηση και ανάκτηση στο μυαλό, η ανακύκλωση γίνεται πιο ρεαλιστική και λιγότερο πανάκριβη."
+          },
+          {
+            "heading": "Substitution",
+            "body": "Μερικές εφαρμογές μπορούν να στραφούν σε εναλλακτικές σχεδιάσεις, αλλά συχνά αυτό σημαίνει απώλεια απόδοσης, βάρος ή όγκο. Η φυσική δεν κάνει εύκολες εκπτώσεις."
+          }
+        ]
+      },
+      "en": {
+        "title": "Recycling, substitution and the next chapter",
+        "excerpt": "The future is not just more mines. It is better recovery, better design and smarter alternatives.",
+        "intro": "As demand rises, industry is chasing three answers: more primary supply, better recycling and technologies that need fewer or different critical materials.",
+        "sections": [
+          {
+            "heading": "Why recycling is difficult",
+            "body": "Many rare earths sit in small amounts scattered through complex products. Economic recovery is not straightforward."
+          },
+          {
+            "heading": "Design for recovery",
+            "body": "If products are designed from the start with disassembly and material recovery in mind, recycling becomes more realistic and less painfully expensive."
+          },
+          {
+            "heading": "Substitution",
+            "body": "Some uses can shift to alternative designs, but that often means losing performance, adding weight or increasing size. Physics does not hand out discounts."
+          }
+        ]
+      }
+    },
+    "coverMediaRef": "editorial-recycling",
+    "mediaRefs": [
+      "editorial-recycling",
+      "material-oxides",
+      "material-monazite",
+      "editorial-mineral-monazite"
+    ]
+  }
+]

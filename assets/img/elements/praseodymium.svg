@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Praseodymium">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(234 70% 16%)"/>
+      <stop offset="100%" stop-color="hsl(279 65% 8%)"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="hsl(234 85% 68%)" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="hsl(234 85% 40%)" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="420" rx="32" fill="url(#bg)"/>
+  <circle cx="480" cy="90" r="110" fill="url(#glow)"/>
+  <g opacity="0.16" fill="none" stroke="white">
+    <path d="M48 74h220"/>
+    <path d="M48 96h190"/>
+    <path d="M48 118h250"/>
+  </g>
+  <g transform="translate(70 120)">
+    <path d="M90 0L165 55L130 150L35 170L0 75Z" fill="hsl(234 80% 60%)" opacity="0.9"/>
+    <path d="M180 30L255 70L220 185L125 195L110 105Z" fill="hsl(254 82% 52%)" opacity="0.85"/>
+    <path d="M255 65L335 110L310 225L225 245L210 150Z" fill="hsl(269 86% 45%)" opacity="0.8"/>
+    <path d="M55 30L125 75L90 165L20 130Z" fill="hsl(244 78% 70%)" opacity="0.75"/>
+  </g>
+  <text x="58" y="340" fill="white" font-family="Inter,Segoe UI,Arial" font-size="112" font-weight="700">Pr</text>
+  <text x="60" y="382" fill="rgba(255,255,255,0.72)" font-family="Inter,Segoe UI,Arial" font-size="22" letter-spacing="2">PRASEODYMIUM</text>
+  <text x="565" y="350" fill="white" font-family="Inter,Segoe UI,Arial" font-size="54" text-anchor="end" font-weight="700">59</text>
+</svg>

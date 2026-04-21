@@ -1,0 +1,23 @@
+{
+  "exampleRecord": {
+    "id": "smartphone-real-photo-001",
+    "category": "application",
+    "type": "photo",
+    "status": "placeholder-ready",
+    "localPath": "/uploads/media/smartphone-real-photo-001.webp",
+    "remoteUrl": "",
+    "credit": "To be assigned",
+    "linkedEntityType": "application",
+    "linkedEntityId": "smartphone",
+    "translations": {
+      "el": {
+        "title": "Smartphone - πραγματική φωτογραφία",
+        "caption": "Θέση για μελλοντική licensed φωτογραφία ή database asset."
+      },
+      "en": {
+        "title": "Smartphone - real photo",
+        "caption": "Slot for a future licensed photo or database asset."
+      }
+    }
+  }
+}

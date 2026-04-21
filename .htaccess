@@ -1,0 +1,8 @@
+Options -Indexes
+AddType application/json .json
+<IfModule mod_headers.c>
+  <FilesMatch "\.(json)$">
+    Header set Content-Type "application/json; charset=UTF-8"
+  </FilesMatch>
+</IfModule>
+DirectoryIndex index.html

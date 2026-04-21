@@ -1,0 +1,79 @@
+{
+  "entities": {
+    "elements": {
+      "primaryKey": "id",
+      "localizedFields": [
+        "name",
+        "tagline",
+        "summary",
+        "uses",
+        "fact"
+      ],
+      "relations": {
+        "applications": "many-to-many"
+      }
+    },
+    "applications": {
+      "primaryKey": "id",
+      "localizedFields": [
+        "name",
+        "summary",
+        "whatItDoes",
+        "howItWorks"
+      ],
+      "relations": {
+        "elements": "many-to-many"
+      }
+    },
+    "articles": {
+      "primaryKey": "id",
+      "localizedFields": [
+        "title",
+        "excerpt",
+        "intro",
+        "sections"
+      ],
+      "relations": {
+        "sources": "many-to-many"
+      }
+    },
+    "media": {
+      "primaryKey": "id",
+      "localizedFields": [
+        "title",
+        "caption"
+      ],
+      "relations": {
+        "article": "optional",
+        "element": "optional",
+        "application": "optional"
+      }
+    },
+    "sources": {
+      "primaryKey": "id",
+      "localizedFields": [],
+      "relations": {}
+    }
+  },
+  "apiSuggestion": {
+    "GET": [
+      "/elements",
+      "/elements/:id",
+      "/applications",
+      "/articles",
+      "/articles/:id",
+      "/media",
+      "/sources"
+    ],
+    "POST": [
+      "/contact",
+      "/feedback"
+    ],
+    "future": [
+      "/auth",
+      "/admin/uploads",
+      "/cms/articles",
+      "/search"
+    ]
+  }
+}

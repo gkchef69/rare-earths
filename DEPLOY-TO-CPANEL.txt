@@ -1,0 +1,12 @@
+Rare Earth Atlas v2.1.2
+
+Rare Earth Atlas v2.1.1
+
+Rare Earth Atlas v2.1.0
+
+1. Upload the zip to the target folder in cPanel.
+2. Extract it.
+3. Make sure index.html sits in the public folder you want to serve.
+4. Open the domain or subfolder URL.
+
+This release includes the gallery size fix, sticky navigation, scroll-top button and cleaner public-facing copy.

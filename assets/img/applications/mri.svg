@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="MRI and medical imaging">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(334 65% 14%)"/>
+      <stop offset="100%" stop-color="hsl(24 65% 9%)"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(334 88% 62%)"/>
+      <stop offset="100%" stop-color="hsl(4 88% 52%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="32" fill="url(#bg)"/>
+  <g opacity="0.15" fill="none" stroke="white">
+    <path d="M40 80h560"/>
+    <path d="M40 340h560"/>
+    <path d="M94 44v332"/>
+    <path d="M540 44v332"/>
+  </g>
+  <circle cx="516" cy="110" r="96" fill="hsl(334 80% 58%)" opacity="0.12"/>
+  <path d="M62 126h290v148H62zm68 26h150a48 48 0 1 1 0 96H130a48 48 0 1 1 0-96zm170 48h78" transform="translate(110 40) scale(1.25)" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="58" y="84" fill="white" font-family="Inter,Segoe UI,Arial" font-size="18" letter-spacing="3">MRI</text>
+  <text x="58" y="336" fill="white" font-family="Inter,Segoe UI,Arial" font-size="34" font-weight="700">MRI and medical imaging</text>
+  <text x="58" y="372" fill="rgba(255,255,255,0.72)" font-family="Inter,Segoe UI,Arial" font-size="18">Gd, Y, Lu</text>
+</svg>

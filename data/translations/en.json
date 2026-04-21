@@ -1,0 +1,151 @@
+{
+  "site": {
+    "title": "Rare Earth Atlas",
+    "subtitle": "A bilingual museum / tech-magazine project on the 17 strategic elements behind magnets, displays, vehicles, medicine and industrial systems."
+  },
+  "nav": {
+    "home": "Home",
+    "elements": "Elements",
+    "applications": "Applications",
+    "gallery": "Gallery",
+    "articles": "Articles",
+    "sources": "Sources",
+    "language": "Language",
+    "theme": "Theme",
+    "discover": "Discover",
+    "menu": "Menu",
+    "discoverLead": "Fast paths through the atlas"
+  },
+  "hero": {
+    "eyebrow": "Materials, devices, geopolitics and design",
+    "title": "Rare earths explained without the usual fog machine",
+    "lead": "A modern bilingual atlas with real photography, clear explanations and curated articles about the materials hidden inside magnets, displays, electric vehicles, medical imaging and industrial systems.",
+    "ctaPrimary": "Explore the elements",
+    "ctaSecondary": "Read the articles"
+  },
+  "sections": {
+    "featuredElements": "Featured elements",
+    "featuredApplications": "Where they show up",
+    "featuredArticles": "Read deeper",
+    "featuredGallery": "Visual archive",
+    "architecture": "How to read this atlas",
+    "architectureLead": "From ore and refining to components, devices and strategic systems.",
+    "whyThisMatters": "Why it matters",
+    "whyThisMattersLead": "Rare earths are not just chemistry trivia. They sit inside modern supply chains, electronics, energy systems and medical imaging.",
+    "timeline": "From ore to product",
+    "editorialDeskKicker": "editorial desk",
+    "editorialDesk": "Curated opening spread",
+    "editorialDeskLead": "Think museum wall text with less dust. A short editorial path from material to device and from device to geopolitics.",
+    "mediaLedgerKicker": "visual archive",
+    "mediaLedger": "Selected visuals",
+    "mediaLedgerLead": "Photography of materials, ores, devices and industrial stages that makes the theory easier to see in practice.",
+    "curatedArchive": "From material to machine",
+    "curatedArchiveLead": "Selected visuals that connect samples, devices, vehicles and industrial settings into one editorial thread."
+  },
+  "cards": {
+    "learnMore": "Learn more",
+    "openArticle": "Open article",
+    "openSource": "Open source",
+    "viewAll": "View all",
+    "keyUses": "Key uses",
+    "whatItDoes": "What it does",
+    "howItWorks": "How it works",
+    "references": "References",
+    "featured": "Featured",
+    "photoCredit": "Photo",
+    "issueLabel": "issue / edition",
+    "issueMedia": "visuals and specimens",
+    "editorPickLabel": "editor’s pick",
+    "archiveLabel": "archive",
+    "relatedMedia": "Related visuals",
+    "sectionLabel": "Section",
+    "issueThemes": "ores · magnets · systems",
+    "scrollTop": "Back to top",
+    "articleContext": "What to keep in mind",
+    "openImage": "View image",
+    "previous": "Previous",
+    "next": "Next",
+    "galleryCounter": "{{current}} / {{total}}",
+    "readingPaths": "Reading paths",
+    "quickLinks": "Quick links",
+    "featuredEssay": "Featured article",
+    "viewArchive": "View archive",
+    "discoverLead": "Starting points for elements, applications and imagery.",
+    "lightboxHint": "Use the arrows or keyboard keys to browse the archive.",
+    "closeLabel": "Close",
+    "articleDeck": "Editorial analysis",
+    "articleLeadIn": "Editor’s note",
+    "viewImage": "View image",
+    "nextImage": "Next",
+    "prevImage": "Previous",
+    "imageCounter": "Image {{current}} of {{total}}"
+  },
+  "filters": {
+    "all": "All",
+    "searchPlaceholder": "Search by title, symbol or use",
+    "categoryAll": "All categories",
+    "sectorAll": "All sectors",
+    "galleryAll": "All visuals"
+  },
+  "home": {
+    "matterCards": [
+      {
+        "title": "Magnets and motion",
+        "text": "Neodymium, praseodymium, dysprosium and samarium make compact motors, speakers and actuators possible."
+      },
+      {
+        "title": "Displays and optics",
+        "text": "Europium, terbium, yttrium and lanthanum appear in phosphors, optical glass and detector materials."
+      },
+      {
+        "title": "Medicine and imaging",
+        "text": "Gadolinium and lutetium show that rare earths are also deeply woven into diagnostic technologies."
+      }
+    ],
+    "timeline": [
+      "Ore and mineral concentration",
+      "Chemical separation and refining",
+      "Alloys, powders and functional materials",
+      "Components, devices and industrial systems"
+    ],
+    "architecturePoints": [
+      "Rare earths rarely matter as raw rock alone. Their value rises when they become purified oxides, alloys and functional components.",
+      "The same element can appear across more than one chain, from sound and optics to medical imaging and energy systems.",
+      "The bottleneck is not only mining. It is often separation, refining and the manufacture of magnets or specialty crystals.",
+      "Very small volumes can carry huge importance when they end up inside critical devices, sensors or precision systems.",
+      "That is why rare earths sit at the intersection of technology, industry, defense, medicine and geopolitics."
+    ],
+    "fieldGuideIntro": "If you treat rare earths as a list of chemical names, you miss the interesting part. The practical way to understand them is to follow them from ore to processing, from materials to finished products.",
+    "fieldGuideOutro": "That is the best way to use this atlas: start with an element, see where it is used, look at the linked object or machine, then move into the articles to understand the industrial and strategic weight behind it."
+  },
+  "page": {
+    "elementsTitle": "The 17 elements",
+    "elementsLead": "Filter the full family and inspect where each one is used.",
+    "applicationsTitle": "Devices, vehicles and systems",
+    "applicationsLead": "Applications from consumer tech to energy, medicine, automotive engineering and precision industry.",
+    "galleryTitle": "Visual archive",
+    "galleryLead": "A symmetrical visual archive with cleaner crops, lightbox viewing and curated imagery spanning materials, devices, machines and industrial stages.",
+    "articlesTitle": "Article library",
+    "articlesLead": "Longer-form texts and essays on materials, supply chains, technology and real-world uses.",
+    "sourcesTitle": "Sources and references",
+    "sourcesLead": "Official or high-value references to support the content and future expansion.",
+    "articleBack": "Back to articles",
+    "notFound": "The requested article was not found."
+  },
+  "footer": {
+    "copy": "Rare Earth Atlas. A bilingual knowledge project about the 17 elements that support modern devices, energy systems and medical technology.",
+    "meta": "Materials · applications · visuals · sources",
+    "kicker": "museum / tech-magazine edition"
+  },
+  "theme": {
+    "dark": "Dark",
+    "light": "Light"
+  },
+  "common": {
+    "noMatchingElements": "No matching elements.",
+    "noMatchingApplications": "No matching applications.",
+    "noMatchingVisuals": "No matching visuals.",
+    "close": "Close",
+    "apiReadyNote": "Keep the main point in view: the value of rare earths does not stop at the ore body. It grows through processing and through the components built from it."
+  }
+}
